@@ -1,0 +1,193 @@
+name,score,price,url,battery_size,max_dc_charge,miles_per_kwh,range
+Smart #5 Review,7,50000,https://www.electrifying.com/reviews/smart-car-reviews/5/,84,400,3.5,366
+Jeep Compass Review,6,45000,https://www.electrifying.com/reviews/jeep-reviews/compass/,85,160,4.4,404
+Renault 4 E-Tech Electric Review,8,27000,https://www.electrifying.com/reviews/renault-4/,52,100,4.8,247
+Citroen e-C5 Aircross Review,7,40000,https://www.electrifying.com/reviews/citroen-reviews/e-c5-aircross/,85,160,4.4,422
+Abarth 600e Review,8,36975,https://www.electrifying.com/reviews/abarth/600e/,51,151,4.0,208
+Range Rover Electric Review,8,140000,https://www.electrifying.com/reviews/land-rover-reviews/range-rover-electric/,117,350,4.1,310
+Ford Puma Gen-E Review,8,29995,https://www.electrifying.com/reviews/ford-reviews/puma-gen-e/,43,100,5.0,233
+New 2025 Tesla Model Y Review,9,44990,https://www.electrifying.com/reviews/tesla-reviews/model-y-2025/,75,250,4.6,387
+Ford e-Transit Courier Review,8,34490,https://www.electrifying.com/reviews/ford-reviews/e-transit-courier/,43,100,4.1,186
+Kia PV5 Review,9,30000,https://www.electrifying.com/reviews/kia-reviews/pv5/,57,150,4.1,250
+Skoda Enyaq 2025 Review,9,39000,https://www.electrifying.com/reviews/skoda-reviews/new-enyaq/,68,175,4.6,365
+MGS5 EV Review,8,28495,https://www.electrifying.com/reviews/mg-reviews/mgs5-ev/,56,139,4.5,298
+Volvo ES90 Review,9,70000,https://www.electrifying.com/reviews/volvo-reviews/es90/,95,350,4.4,437
+Maserati Grecale Folgore Review,7,99165,https://www.electrifying.com/reviews/maserati/grecale-folgore/,97,150,4.1,310
+Mercedes CLA Review,9,45000,https://www.electrifying.com/reviews/mercedes-reviews/cla/,71,320,4.1,465
+New Kia EV4 review,8,32000,https://www.electrifying.com/reviews/kia-reviews/ev4/,69,118,4.1,391
+Citroen e-Relay Review,7,49485,https://www.electrifying.com/reviews/citroen-reviews/e-relay/,110,150,4.1,261
+Mercedes-Benz eVito Review,7,48530,https://www.electrifying.com/reviews/mercedes-reviews/evito/,66,80,4.1,162
+Volkswagen Transporter Review,8,42800,https://www.electrifying.com/reviews/volkswagen-reviews/transporter/,65,125,4.1,201
+BYD Atto 2 Review,8,30000,https://www.electrifying.com/reviews/byd/atto-2//,50,65,4.1,260
+Zeekr 7X Review,8,44090,https://www.electrifying.com/reviews/zeekr/7x/,87,360,4.1,382
+Mercedes-Benz eSprinter Review,8,58740,https://www.electrifying.com/reviews/mercedes-reviews/esprinter-1/,97,115,4.1,271
+Kia EV3 Review,10,32995,https://www.electrifying.com/reviews/kia-reviews/ev3/,66,151,4.1,375
+Mazda 6e Review,7,42000,https://www.electrifying.com/reviews/mazda-reviews/6e/,74,200,4.5,345
+DS No 8 Review,8,60000,https://www.electrifying.com/reviews/ds-reviews/no-8/,85,160,3.9,469
+Skoda Elroq Review,9,31500,https://www.electrifying.com/reviews/skoda-reviews/elroq/,73,175,4.1,360
+Audi S e-tron GT Review 2025,9,108680,https://www.electrifying.com/reviews/audi/e-tron-gt/,97,320,4.1,356
+Hyundai IONIQ 9 Review,8,65000,https://www.electrifying.com/reviews/hyundai-reviews/ioniq-9/,110,210,3.5,385
+BYD Sealion 7 Review,7,46990,https://www.electrifying.com/reviews/byd/sealion-7/,87,190,4.1,312
+Alpine A290 Review,9,33500,https://www.electrifying.com/reviews/alpine/a290/,52,100,4.1,236
+Suzuki e Vitara Review,6,29000,https://www.electrifying.com/reviews/suzuki/e-vitara/,55,150,4.1,249
+MINI Aceman Review,8,31800,https://www.electrifying.com/reviews/mini-reviews/aceman/,73,95,4.4,252
+Citroen e-Dispatch Review,8,41210,https://www.electrifying.com/reviews/citroen-reviews/e-dispatch/,75,100,4.1,217
+Citroen e-C4 Review 2025,8,26295,https://www.electrifying.com/reviews/citroen-reviews/citroen-e-c4/,52,100,4.8,261
+Vauxhall Grandland Review,6,37435,https://www.electrifying.com/reviews/vauxhall/grandland/,85,151,4.1,325
+Leapmotor C10 Review,6,36500,https://www.electrifying.com/reviews/leapmotor/c10/,69,84,4.1,261
+Renault 5 E-Tech Review,9,22995,https://www.electrifying.com/reviews/renault-reviews/r5-e-tech/,46,100,4.8,255
+Leapmotor T03 Review,8,15995,https://www.electrifying.com/reviews/leapmotor/t03/,37,45,4.1,165
+Audi Q6 e-tron Review,7,59975,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron-2/,94,270,3.9,392
+B-On Pelkan Review,6,30000,https://www.electrifying.com/reviews/b-on/Pelkan/,48,100,4.1,173
+Kia EV6 Review,9,45575,https://www.electrifying.com/reviews/kia/ev6/,84,260,4.2,361
+Volkswagen ID.7 Tourer Review,8,52240,https://www.electrifying.com/reviews/volkswagen-reviews/id-7-tourer/,81,187,4.1,424
+Ford e-Transit Custom Review,8,43380,https://www.electrifying.com/reviews/ford-reviews/e-transit-custom/,64,125,4.1,209
+Mercedes-Benz eCitan Review,7,37200,https://www.electrifying.com/reviews/mercedes-reviews/ecitan/,45,80,4.1,186
+Maxus eDeliver 3 Review,7,34000,https://www.electrifying.com/reviews/maxus/edeliver-3/,42,50,4.1,151
+Nissan Townstar EV Review,7,33995,https://www.electrifying.com/reviews/nissan-reviews/townstar/,45,80,4.1,186
+Maxus eDeliver 9 Review,7,66000,https://www.electrifying.com/reviews/ford-reviews/e-transit-1/,70,80,4.1,219
+Volvo EX90 Review,8,96225,https://www.electrifying.com/reviews/volvo-reviews/ex90/,107,250,2.9,374
+Audi Q4 e-tron Review,7,51965,https://www.electrifying.com/reviews/audi/q4-e-tron/,77,175,4.1,342
+Dacia Spring Review,7,14995,https://www.electrifying.com/reviews/dacia/spring/,27,30,5.2,137
+Ford Capri Review,7,48075,https://www.electrifying.com/reviews/ford-reviews/capri/,65,185,4.1,389
+Polestar 4 Review,7,59990,https://www.electrifying.com/reviews/polestar-reviews/4/,94,151,4.1,379
+Peugeot E-5008 Review,9,48000,https://www.electrifying.com/reviews/peugeot-reviews/e-5008/,85,160,3.9,311
+Hyundai INSTER Review,9,23495,https://www.electrifying.com/reviews/hyundai-reviews/inster/,45,85,4.3,229
+Citroen e-C3 Aircross Review,8,22990,https://www.electrifying.com/long-term-reviews/citroen-reviews/e-c3-aircross/,47,100,4.8,188
+Ford Explorer Review,8,45875,https://www.electrifying.com/reviews/ford-reviews/explorer/,65,185,4.1,374
+Polestar 3 Review,8,75900,https://www.electrifying.com/reviews/polestar/3/,107,250,4.1,393
+Omoda E5 Review,6,33055,https://www.electrifying.com/reviews/omoda/5/,61,80,4.1,257
+Ora Ballet Cat Review,4,18000,https://www.electrifying.com/long-term-reviews/ora/ballet-cat/,73,6,5.1,311
+Ora Funky Cat / 03 Review,6,31995,https://www.electrifying.com/long-term-reviews/ora/funky-cat/o3/,73,64,3.6,260
+Peugeot E-3008 Review,5,45960,https://www.electrifying.com/reviews/peugeot-reviews/e-3008/,85,160,4.4,435
+Cupra Born VZ Review,9,46000,https://www.electrifying.com/reviews/cupra-reviews/born/,79,185,4.2,335
+MG Cyberster Review,7,54995,https://www.electrifying.com/reviews/mg-reviews/cyberster/,73,150,4.0,316
+Jeep Wagoneer S Review,6,65000,https://www.electrifying.com/reviews/jeep-reviews/wagoneer-s/,100,200,2.9,300
+Cadillac OPTIQ Review,7,46000,https://www.electrifying.com/reviews/cadillac/optiq/,85,250,3.5,300
+BMW i5 Touring Review,8,69945,https://www.electrifying.com/reviews/bmw/i5touring/,81,205,4.1,342
+Citroen e-C3 Review,9,21990,https://www.electrifying.com/reviews/citroen-reviews/e-c3/,44,100,4.5,199
+Cupra Tavascan Review,7,47300,https://www.electrifying.com/reviews/cupra-reviews/tavascan/,77,135,4.4,355
+MINI Cooper Electric Review,8,26895,https://www.electrifying.com/reviews/mini-reviews/electric/,73,95,4.4,249
+Tesla Cybertruck Review,6,80000,https://www.electrifying.com/reviews/tesla-reviews/cybertruck/,123,151,4.1,340
+Geely Panda Review,7,5500,https://www.electrifying.com/reviews/geely/panda/,17,22,7.2,124
+Porsche Macan Electric Review,9,68500,https://www.electrifying.com/reviews/porsche-reviews/macan-electric/,95,270,4.3,399
+Mercedes G580 with EQ Technology Review,7,110000,https://www.electrifying.com/reviews/mercedes-reviews/g580-with-eq-technology/,73,151,4.1,260
+Volvo EX30 Review,7,32850,https://www.electrifying.com/reviews/volvo-reviews/ex30/,56,153,4.3,296
+BMW Vision Neue Klasse 2024 Review,8,60000,https://www.electrifying.com/reviews/bmw-reviews/neue-klasse/,73,151,4.1,500
+MINI Countryman Review,8,42080,https://www.electrifying.com/reviews/mini-reviews/countryman-electric/,73,130,4.4,286
+Kia EV9 Air Review,9,65025,https://www.electrifying.com/reviews/kia-reviews/ev9-3/,99,210,3.7,349
+BMW iX2 Review,6,51615,https://www.electrifying.com/reviews/bmw-reviews/ix2/,64,151,4.1,283
+Porsche Taycan 2024 Review,10,86500,https://www.electrifying.com/reviews/porsche-reviews/new-taycan-2024/,89,320,3.8,421
+Skoda Enyaq (<2024) Review,9,36970,https://www.electrifying.com/reviews/skoda/enyaq-iv/,64,175,4.3,348
+Kia EV9 Review,9,64995,https://www.electrifying.com/reviews/kia-reviews/ev9/,99,220,3.7,349
+Nissan Ariya Review,7,39645,https://www.electrifying.com/reviews/nissan/ariya/,75,151,3.6,330
+Citroen Ami Review,9,7695,https://www.electrifying.com/reviews/citroen-reviews/ami/,5,2,8.0,46
+Renault Scenic E-Tech Review,9,36495,https://www.electrifying.com/reviews/renault-reviews/scenic-e-tech/,73,151,4.1,379
+Porsche Taycan Sport Turismo Review,10,80200,https://www.electrifying.com/reviews/porsche-reviews/taycan-sport-turismo/,93,270,3.3,304
+Abarth 500e Review,8,34195,https://www.electrifying.com/reviews/abarth/500e/,42,85,4.0,158
+Vauxhall Astra Sports Tourer Electric Review,7,35280,https://www.electrifying.com/reviews/vauxhall-reviews/astra-sport-tourer/,51,100,4.4,256
+Smart #3 Review,8,33950,https://www.electrifying.com/reviews/smart-reviews/3/,62,150,4.6,283
+Volkswagen ID.7 Review,8,51550,https://www.electrifying.com/reviews/volkswagen-reviews/id-7/,81,187,4.1,436
+Genesis Electrified GV70 review,8,65105,https://www.electrifying.com/reviews/genesis-reviews/gv70/,77,225,3.2,283
+Nio EL6 review,8,57000,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron-1/,100,182,3.3,329
+Audi Q6 e-tron prototype 2024 review,9,65000,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron/,100,270,3.8,310
+Peugeot E-308 Review,7,38550,https://www.electrifying.com/reviews/peugeot-reviews/e308/,51,100,4.9,248
+Zeekr X Review,7,40000,https://www.electrifying.com/reviews/zeekr/x/,62,150,4.4,273
+Mazda MX-30 R-EV Review,6,31250,https://www.electrifying.com/reviews/mazda-reviews/mx-30-r-ev/,17,36,3.0,53
+Jeep Avenger Review,8,35700,https://www.electrifying.com/reviews/jeep-reviews/avenger/,73,100,4.9,249
+Fiat 600e Review,7,32995,https://www.electrifying.com/reviews/fiat-reviews/600e/,51,100,4.9,254
+BYD Seal Review,8,45695,https://www.electrifying.com/reviews/byd/seal/,82,150,4.1,354
+Mercedes EQE SUV 53 AMG Review,7,133860,https://www.electrifying.com/reviews/mercedes-reviews/eqe-suv-53-amg/,90,151,4.1,278
+Smart #1 Review,9,31950,https://www.electrifying.com/reviews/smart/1/,55,140,3.9,273
+Skoda Enyaq Coupe 2025 Review,8,46200,https://www.electrifying.com/reviews/skoda-reviews/enyaq-coupe/,77,175,4.0,365
+BYD Seal U Review,7,40000,https://www.electrifying.com/reviews/byd/seal-1/,77,127,4.1,311
+Honda e:Ny1 Review,7,39995,https://www.electrifying.com/reviews/honda-reviews/e-ny1/,61,78,4.1,256
+Hyundai IONIQ 5 N Review,9,65000,https://www.electrifying.com/reviews/hyundai-reviews/ioniq-5-n/,84,233,3.0,278
+Volkswagen ID.5 Review,6,45860,https://www.electrifying.com/reviews/volkswagen/id-5/,77,175,3.9,342
+MG4 XPower Review,7,36495,https://www.electrifying.com/reviews/mg-reviews/mg4/,73,150,3.8,239
+Peugeot E-2008 Review,8,32700,https://www.electrifying.com/reviews/peugeot-reviews/peugeot-e2008-1/,54,100,5.0,249
+Rolls Royce Spectre Review,9,350000,https://www.electrifying.com/reviews/rolls-royce/spectre/,102,195,3.2,329
+Rivian R1S Review,8,56000,https://www.electrifying.com/reviews/rivian-reviews/r1t/,135,151,4.1,321
+Vauxhall Astra Electric Review,7,34130,https://www.electrifying.com/reviews/vauxhall-reviews/astra-electric/,51,100,5.1,258
+Volkswagen ID.Buzz LWB 7-Seater Preview,8,60000,https://www.electrifying.com/reviews/volkswagen-reviews/id-buzz/,81,185,4.1,285
+Volvo XC40 Recharge 2024 Review,7,46505,https://www.electrifying.com/reviews/volvo-reviews/xc40-recharge/,73,200,3.5,334
+BMW i5 eDrive review,8,74105,https://www.electrifying.com/reviews/bmw-reviews/i5/,81,205,4.4,357
+BYD Dolphin Review,8,26195,https://www.electrifying.com/reviews/byd/dolphin/,52,88,3.8,265
+Lexus RZ450e Review,7,57895,https://www.electrifying.com/reviews/lexus-reviews/rz450e/,64,150,4.2,270
+BYD Atto 3 Review,7,36490,https://www.electrifying.com/reviews/byd/atto-3/,60,88,4.1,260
+Subaru Solterra Review,6,49995,https://www.electrifying.com/reviews/subaru/solterra/,73,151,4.5,288
+Fisker Ocean Review,7,25000,https://www.electrifying.com/reviews/fisker/ocean/,73,151,4.4,440
+Citroen e-C4 X Review,8,31610,https://www.electrifying.com/reviews/citroen-reviews/e-c4-x/,52,100,4.4,260
+Audi Q8 e-tron Review,8,67800,https://www.electrifying.com/reviews/audi-reviews/q8-e-tron/,97,160,3.2,343
+Ford E-Transit Review,8,49545,https://www.electrifying.com/reviews/ford-reviews/e-transit/,68,115,4.1,196
+Volkswagen ID.Buzz Cargo Review,8,40450,https://www.electrifying.com/reviews//id-buzz-cargo/,77,170,4.1,254
+BMW i7 Review,8,108305,https://www.electrifying.com/reviews/bmw-reviews/i7/,102,195,3.8,387
+Nio ET7 Review,7,80000,https://www.electrifying.com/reviews/nio/et7/,100,151,4.1,315
+Hyundai IONIQ 6 Review,9,46745,https://www.electrifying.com/reviews/hyundai/ioniq-6/,77,232,4.1,384
+BMW iX1 Review,8,46205,https://www.electrifying.com/reviews/bmw/ix1/,64,130,4.0,293
+Volta Zero Review,7,57515,https://www.electrifying.com/reviews/volta/zero/,180,150,4.1,125
+Volkswagen ID.Buzz Review,9,59035,https://www.electrifying.com/reviews/volkswagen/id-buzz/,77,170,4.1,258
+MG4 EV Review,9,26995,https://www.electrifying.com/reviews/mg/4/,73,144,4.4,323
+Hummer EV Review,6,130000,https://www.electrifying.com/reviews/hummer/ev/,210,151,4.1,310
+MINI Electric Convertible Review,8,52000,https://www.electrifying.com/reviews/mini/convertible-electric/,73,49,5.0,125
+Kia Niro PHEV Review,8,33525,https://www.electrifying.com/reviews/kia/niro-phev/,11,151,4.1,40
+Renault Master E-Tech Review,4,50915,https://www.electrifying.com/reviews/renault/master-e-tech/,52,151,4.1,124
+Renault Kangoo E-Tech Review,8,30555,https://www.electrifying.com/reviews/renault/kangoo-e-tech/,45,80,4.1,186
+Kia Niro EV Review,9,37325,https://www.electrifying.com/reviews/kia/niro-ev/,64,72,4.2,285
+Genesis Electrified G80 Review,8,65805,https://www.electrifying.com/reviews/genesis/electrified-g80/,87,185,3.7,323
+Genesis GV60 Review,7,53905,https://www.electrifying.com/reviews/genesis/gv60/,77,151,3.9,289
+Ford F-150 Lightning Review,8,40000,https://www.electrifying.com/reviews/ford/f-150-lightning/,114,151,4.1,310
+Rivian R1T Review,8,56000,https://www.electrifying.com/reviews/rivian/r1t/,135,151,4.1,314
+Mercedes EQT Review,8,32000,https://www.electrifying.com/reviews/mercedes/eqt/,45,151,4.1,186
+BMW i7 Prototype Review,8,107400,https://www.electrifying.com/reviews/bmw/i7/,102,195,3.8,373
+Kia EV6 GT Review,9,58295,https://www.electrifying.com/reviews/kia/ev6-gt/,77,232,3.4,263
+MG 5 EV 2023 Review,7,30995,https://www.electrifying.com/reviews/mg/5-ev/,61,87,4.0,249
+Lotus Eletre Review,9,89500,https://www.electrifying.com/reviews/lotus/eletre/,73,350,3.3,373
+Mercedes EQS SUV Review,7,129470,https://www.electrifying.com/reviews/mercedes/eqs_suv/,118,151,4.1,401
+SKODA Enyaq iV Coupe vRS Review,9,51885,https://www.electrifying.com/reviews/skoda/enyaq-coupe-vrs/,77,135,3.6,312
+Citroen e-Berlingo Van Review,9,30055,https://www.electrifying.com/reviews/citroen/e-berlingo-van/,50,100,4.3,213
+Toyota bZ4X Review,7,42860,https://www.electrifying.com/reviews/toyota/bz4x/,64,150,4.0,318
+Lucid Air Review,8,100000,https://www.electrifying.com/reviews/lucid/air/,90,350,4.1,403
+Mercedes EQE Review,7,69105,https://www.electrifying.com/reviews/mercedes/eqe/,96,151,4.1,431
+KGM Korando e-Motion Review,6,32695,https://www.electrifying.com/reviews/kgm/korando-e-motion/,61,151,4.1,210
+Pininfarina Battista Review,10,2000000,https://www.electrifying.com/reviews/pininfarina/battista/,120,151,4.1,310
+Mercedes EQB Review,8,52800,https://www.electrifying.com/reviews/mercedes/eqb/,68,100,3.9,321
+Renault Megane E-Tech Review,8,33995,https://www.electrifying.com/reviews/renault/megane-e-tech/,60,151,4.1,280
+Cupra Born Review,9,35504,https://www.electrifying.com/reviews/cupra/born/,68,147,3.4,366
+BMW iX Review,8,69905,https://www.electrifying.com/reviews/bmw/ix/,88,200,3.4,380
+Citroen ë-SpaceTourer Review,7,31795,https://www.electrifying.com/reviews/citroen/spacetourer/,50,100,3.2,143
+Rimac Nevera Review,10,2000000,https://www.electrifying.com/reviews/rimac/nevera/,120,500,2.6,310
+BMW i4 Review,10,49995,https://www.electrifying.com/reviews/bmw/i4/,73,190,4.5,367
+Hyundai IONIQ 5 Review,9,39990,https://www.electrifying.com/reviews/hyundai/ioniq-5/,67,225,4.1,354
+Mercedes EQS Review,8,102160,https://www.electrifying.com/reviews/mercedes/eqs/,107,200,4.4,479
+Porsche Taycan Cross Turismo Review,10,81500,https://www.electrifying.com/reviews/porsche/taycan-cross-turismo/,93,270,2.6,241
+Mercedes EQA Review,7,49750,https://www.electrifying.com/reviews/mercedes/eqa/,70,100,3.9,346
+Ford Mustang Mach-E Review,7,43830,https://www.electrifying.com/reviews/ford/mustang-mach-e/,81,150,3.8,372
+Citroen e-C4 Review,8,30569,https://www.electrifying.com/reviews/citroen/e-c4/,52,100,4.8,260
+Fiat All-Electric 500 Review,6,24995,https://www.electrifying.com/reviews/fiat/500e/,33,85,4.7,199
+Toyota Mirai Review,7,65000,https://www.electrifying.com/reviews/toyota/toyota-mirai/,73,151,4.1,500
+BMW iX3 Review,7,58850,https://www.electrifying.com/reviews/bmw/ix3/,80,150,3.6,282
+Lexus UX300e Review,7,40795,https://www.electrifying.com/reviews/lexus/ux300e/,72,50,3.8,279
+Vauxhall Vivaro Electric Review,8,35526,https://www.electrifying.com/reviews/vauxhall/vivaro-e/,62,100,3.0,209
+DS 3 E-Tense Review,6,38950,https://www.electrifying.com/reviews/ds/3-e-tense/,54,100,4.6,250
+Mercedes EQV Review,8,70655,https://www.electrifying.com/reviews/mercedes/eqv/,90,110,2.3,211
+Volkswagen ID.4 Review,7,42640,https://www.electrifying.com/reviews/volkswagen/id-4/,64,125,4.0,349
+Polestar 2 Review,8,44950,https://www.electrifying.com/reviews/polestar/2/,73,205,4.5,406
+MG ZS EV Review,7,30495,https://www.electrifying.com/reviews/mg/zs-ev/,72,76,3.7,273
+Mazda MX-30 Review,5,28995,https://www.electrifying.com/reviews/mazda/mx-30/,35,35,4.2,124
+Tesla Model Y Review,9,44990,https://www.electrifying.com/reviews/tesla/model-y/,75,250,4.2,373
+Volvo XC40 Recharge Review,7,49950,https://www.electrifying.com/reviews/volvo/xc40-recharge/,78,125,3.3,259
+Hyundai Ioniq Electric Review,6,32050,https://www.electrifying.com/reviews/hyundai/ioniq-electric/,73,50,5.1,193
+Honda e Review,6,36920,https://www.electrifying.com/reviews/honda/e/,35,65,3.5,137
+Renault Zoe Review,6,31195,https://www.electrifying.com/reviews/renault/zoe/,52,22,4.6,238
+Renault Twizy Review,6,70860,https://www.electrifying.com/reviews/renault/twizy/,73,2,8.4,56
+Renault Kangoo ZE Review,7,24163,https://www.electrifying.com/reviews/renault/kangoo-ze/,33,7,4.4,143
+Peugeot E-208 Review,7,28600,https://www.electrifying.com/reviews/peugeot/e208/,51,100,5.2,248
+Tesla Model S Review,9,79980,https://www.electrifying.com/reviews/tesla/model-s/,100,250,3.8,405
+Kia Soul EV Review,7,32795,https://www.electrifying.com/reviews/kia/soul-ev/,51,80,4.4,280
+Jaguar I-Pace Review,9,66350,https://www.electrifying.com/reviews/jaguar/i-pace/,73,104,3.2,292
+Tesla Model X Review,9,86200,https://www.electrifying.com/reviews/tesla/model-x/,100,250,3.5,348
+Vauxhall Corsa Electric Review,7,32445,https://www.electrifying.com/reviews/vauxhall/corsa-e/,50,100,4.6,246
+Volkswagen ID.3 Review,8,35700,https://www.electrifying.com/reviews/volkswagen/id-3/,67,170,4.4,346
+Hyundai Kona Electric Review,9,34995,https://www.electrifying.com/reviews/hyundai/kona-ev/,56,101,4.9,321
+Nissan Leaf Review,7,28440,https://www.electrifying.com/reviews/nissan/leaf/,39,50,3.8,168

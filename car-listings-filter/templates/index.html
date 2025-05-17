@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EV Listing Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .price-filter {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .filter-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        input, select {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 100%;
+        }
+        .btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            background-color: #f9f9f9;
+        }
+        .field {
+            margin-bottom: 8px;
+        }
+        .link-button {
+            display: inline-block;
+            background-color: #28a745;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+        .results-info {
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 EV Listing Search</h1>
+        
+        <form method="POST">
+            <label for="dataset">Select Dataset:</label>
+            <select name="dataset" id="dataset" onchange="this.form.submit()">
+                {% for name in datasets %}
+                    <option value="{{ name }}" {% if name == selected %}selected{% endif %}>{{ name }}</option>
+                {% endfor %}
+            </select>
+            
+            <div class="filters">
+                <!-- Price filter section -->
+                <div class="price-filter">
+                    <div class="filter-group">
+                        <label for="min_price">Min Price:</label>
+                        <input type="number" name="min_price" id="min_price" placeholder="Min Price" value="{{ filters.get('min_price', '') }}">
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="max_price">Max Price:</label>
+                        <input type="number" name="max_price" id="max_price" placeholder="Max Price" value="{{ filters.get('max_price', '') }}">
+                    </div>
+                </div>
+                
+                <!-- Other column filters -->
+                {% for col in columns %}
+                    {% if col|lower != 'price' %}
+                    <div class="filter-group">
+                        <input type="text" name="{{ col }}" placeholder="Filter {{ col }}" value="{{ filters.get(col, '') }}">
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            
+            <button type="submit" class="btn">Search</button>
+        </form>
+        
+        <div class="results-info">
+            Showing {{ data|length }} results
+        </div>
+        
+        <div class="cards">
+            {% for row in data %}
+                <div class="card">
+                    {% for col, value in row.items() %}
+                        <div class="field">
+                            <strong>{{ col }}:</strong>
+                            {% if value and value is string and value.startswith('http') %}
+                                <a href="{{ value }}" target="_blank" class="link-button">🔗 View Listing</a>
+                            {% else %}
+                                <span>{{ value }}</span>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

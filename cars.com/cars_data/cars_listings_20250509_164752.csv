@@ -1,0 +1,450 @@
+Title,Price,Mileage,Dealer,Location,Rating,Link
+2015 Jeep Grand Cherokee Limited,"$14,950","88,064 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/49fb635f-1686-4366-a381-1e18b3822254/?attribution_type=premier
+2024 BMW X5 xDrive40i,"$46,295","43,957 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL",4.7,https://www.cars.com/vehicledetail/f9c7de92-aff2-4da0-8911-dd2d72b31848/?attribution_type=isa
+2022 Hyundai SANTA FE XRT,"$22,899","32,608 mi.",McGrath City Honda,"Chicago, IL (9 mi.)",4.4,https://www.cars.com/vehicledetail/fbe017fe-43df-4708-8d98-9471dbb7bbc4/
+2019 Mazda CX-5 Signature,"$22,995","61,081 mi.",McGrath Acura of Morton Grove,"Morton Grove, IL (15 mi.)",4.5,https://www.cars.com/vehicledetail/9b245247-f2d2-411b-a642-7aba8610426a/
+2020 RAM 1500 Laramie,"$30,198","74,971 mi.",Zeigler Buick GMC of Lincolnwood,"Lincolnwood, IL (10 mi.)",4.5,https://www.cars.com/vehicledetail/550c4d09-7dee-4aeb-9da2-8a3142f67b1c/
+2023 Jeep Grand Cherokee Limited,"$36,699","19,353 mi.",BMW of Orland Park,"Orland Park, IL (24 mi.)",4.6,https://www.cars.com/vehicledetail/967e8d50-27e4-480b-85f2-2318c9463529/
+2023 Nissan Rogue SV,"$23,483","28,886 mi.",Tasca Chevrolet Wheeling,"Wheeling, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/947f7bcb-95b2-4861-9973-e23b3af6791c/
+2023 Dodge Charger SXT,"$21,895","54,176 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/525615bd-06d7-40a4-9427-94bd5e2b49ba/
+2020 Volkswagen Atlas 2.0T SE,"$20,847","58,971 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/6b50c7d4-1525-419f-90a7-dcf241ca0305/
+2022 Chrysler Pacifica Touring L,"$20,788","70,219 mi.",Napleton Downtown Chevrolet Buick GMC,"Chicago, IL (3 mi.)",4.4,https://www.cars.com/vehicledetail/d2c2df6d-0041-463d-b927-10183dee2793/
+2024 Subaru Forester Limited,"$34,495","13,394 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/995374fc-c5d7-433c-89c3-88e1dbbe695e/
+2024 Volkswagen Tiguan 2.0T SE,"$24,595","39,007 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/be56fb88-74b2-4442-9dd3-699204aa93dc/
+2023 Nissan Rogue SV,"$23,750","21,964 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/38e40115-f18a-4b28-9f05-d2afe5e13571/
+2024 Nissan Rogue SL,"$30,995","8,625 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/e9b7f447-a9b8-4d90-8ed0-45f43bec68e0/
+2025 Audi Q7 45 Premium Plus,"$56,880","7,952 mi.",Audi Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.6,https://www.cars.com/vehicledetail/8ed4f51a-cf89-4dc2-8416-cc5debd58560/
+2023 Subaru Forester Touring,"$32,432","35,710 mi.",The Autobarn Countryside Subaru,"Countryside, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/3d250681-36ba-4871-8e97-51140f01ea16/
+2023 Audi Q5 45 S line Prestige,"$42,880","23,684 mi.",Audi Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.6,https://www.cars.com/vehicledetail/3af947db-96bc-4489-808c-5286e4373988/
+2021 Jeep Grand Cherokee Overland,"$28,800","67,552 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/540d0ece-d1dc-4c90-ae0f-f142290e8a5e/
+2018 Acura MDX 3.5L,"$22,000","68,036 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/22e6ca6b-2927-4b83-83b9-29875b9fba8c/
+2023 Alfa Romeo Stelvio Veloce AWD,"$38,995","15,837 mi.",Westfield Ford,"Countryside, IL (14 mi.)",4.3,https://www.cars.com/vehicledetail/5084da26-431e-44a1-b517-69cb97c62ce6/
+2025 Acura MDX A-SPEC Advance Package,"$61,706","3,619 mi.",McGrath Acura of Westmont,"Westmont, IL (18 mi.)",4.8,https://www.cars.com/vehicledetail/72fa27a0-246c-4659-95a3-6617b82e2e44/
+2021 Ford F-150 Lariat,"$41,888","35,200 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/bfc78b40-afb8-4eb8-a671-7e455c8b2ebc/
+2024 Nissan Frontier SV,"$32,998",345 mi.,CarMax Baton Rouge,N/A,0,https://www.cars.com/vehicledetail/05bbb2e2-b0d6-460a-b8ce-c230bb7aca8a/
+2021 Mazda CX-9 Grand Touring,"$28,998","28,438 mi.",CarMax Salisbury,N/A,0,https://www.cars.com/vehicledetail/8a0ba74b-643c-4dbd-a057-7d7c7f485af0/
+2020 BMW X2 xDrive28i,"$18,800","88,326 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/51f1241b-acc3-49f8-9bd8-ac3fbffc0c28/?attribution_type=premier
+2024 Lincoln Navigator Reserve,"$80,995","27,153 mi.",Highland Park Ford Lincoln,"Highland Park, IL (24 mi.)",4.9,https://www.cars.com/vehicledetail/26d1d014-9417-4a30-8aa3-85f25c33c228/
+2022 Audi Q7 45 Premium,"$27,900","87,411 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/f7c025d7-afe4-41ec-89ae-63d037f45c19/
+2023 Acura RDX A-Spec Advance Package,"$43,262","13,035 mi.",McGrath Acura of Westmont,"Westmont, IL (18 mi.)",4.8,https://www.cars.com/vehicledetail/e23eab40-eb1b-40c3-b59a-68cb8d2bfd4d/
+2022 Ford F-150 XLT,"$45,750","10,216 mi.",Fair Oaks Ford,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/ba84ef28-b0ed-4b47-8067-3c06c5869bf3/
+2024 Alfa Romeo Stelvio Ti,"$38,700","8,725 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/1a9ae6a2-a201-4a6f-98e2-c04bd26a088f/
+2024 Honda Accord EX 1.5T,"$26,999","5,776 mi.",McGrath City Honda,"Chicago, IL (9 mi.)",4.4,https://www.cars.com/vehicledetail/d49505f5-5e1d-4cea-90f6-664037f156fd/
+2022 Nissan Rogue S,"$22,295","32,075 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/8b72e3cf-42b5-408d-ad28-f08b4929fd78/
+2019 Alfa Romeo Giulia Ti,"$22,359","26,695 mi.",Phillips Chevrolet of Lansing,"Lansing, IL (22 mi.)",5.0,https://www.cars.com/vehicledetail/506946d6-c973-4a14-a74e-93a5cb78a59a/
+2023 Nissan Rogue SL,"$23,520","54,634 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/de5037e1-a2c2-4103-9340-577ce56ed23d/
+2024 Volkswagen Tiguan 2.0T SE 4MOTION,"$29,500","4,059 mi.",Volkswagen of Downtown Chicago,"Chicago, IL (2 mi.)",4.5,https://www.cars.com/vehicledetail/f729d621-0875-4745-8b7a-7048672f1089/
+2022 Hyundai SANTA FE Calligraphy,"$31,757","18,429 mi.",Volkswagen of Orland Park,"Orland Park, IL (22 mi.)",4.1,https://www.cars.com/vehicledetail/1bfb256f-e9c6-439e-83e4-ee4a8f5102a8/
+2023 Chrysler Pacifica Limited,"$27,881","67,817 mi.",South Oak Dodge Chrysler Jeep RAM,"Matteson, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/24d1e112-4a23-4d55-a845-d667997854dd/
+2022 Lincoln Aviator Reserve AWD,"$46,000","30,540 mi.",Zeigler Chevrolet,"Schaumburg, IL (25 mi.)",4.4,https://www.cars.com/vehicledetail/29f2eb80-2f44-41c0-8c60-c729732af851/
+2024 Subaru Outback Touring XT,"$34,957","33,667 mi.",Grand Subaru,"Bensenville, IL (17 mi.)",4.9,https://www.cars.com/vehicledetail/d8130f9b-5eaf-418e-9cbd-cd5ec2d74cd1/
+2023 Chevrolet Silverado 1500 RST,"$42,950","63,232 mi.",Rizza Cadillac Buick GMC,"Tinley Park, IL (22 mi.)",4.5,https://www.cars.com/vehicledetail/daf3f3ca-4de5-44cf-9272-83a7f959afaf/
+2023 Hyundai SANTA FE SEL 2.4,"$24,420","47,872 mi.",Jack Phelan Chrysler Dodge Jeep RAM,"Countryside, IL (14 mi.)",4.8,https://www.cars.com/vehicledetail/0d5ff2d5-7b5f-4e68-9d90-5f7d989a74a2/
+2021 BMW X5 xDrive40i,"$37,298","62,071 mi.",The Autobarn Volvo Cars of Oak Park,"Oak Park, IL (9 mi.)",4.8,https://www.cars.com/vehicledetail/af822377-002b-4b95-a402-13e7c9293195/
+2024 BMW X5 xDrive40i,"$46,295","43,957 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/f9c7de92-aff2-4da0-8911-dd2d72b31848/
+2018 Chrysler Pacifica Touring Plus,"$16,494","85,031 mi.",Thomas Kia of Highland,"Highland, IN (26 mi.)",4.4,https://www.cars.com/vehicledetail/b0fe065a-f477-477f-a1a8-29b5613a03a0/
+2022 Chrysler Pacifica Touring L,"$22,891","58,084 mi.",Bill Kay Chevrolet,"Lisle, IL (23 mi.)",4.6,https://www.cars.com/vehicledetail/34b8cb3e-8935-4ae5-aae4-03cc6d267905/
+2022 Lexus GX 460,"$53,998","45,873 mi.",CarMax Kenosha,N/A,0,https://www.cars.com/vehicledetail/f6c811ef-eb71-40e5-bca0-a138910585ad/
+2019 Audi Q8 Premium Plus,"$38,998","58,060 mi.",CarMax West Broad,N/A,0,https://www.cars.com/vehicledetail/89c1adbe-c30b-4715-9ecd-065aeb646d53/
+2018 Nissan Kicks SV,"$15,900","64,012 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/de9877a7-ba05-4287-8617-a6532f8a4731/?attribution_type=premier
+2025 Porsche Cayenne Base,"$92,999","3,943 mi.",Mercedes-Benz of Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/491c4ad4-122f-41fd-aef1-0fe0849dd591/
+2024 Audi Q7 55 Prestige,"$61,500","10,717 mi.",Audi Morton Grove,"Morton Grove, IL (15 mi.)",4.9,https://www.cars.com/vehicledetail/94c1ebd4-317f-4fab-87d3-13c2d7db1164/
+2024 Mazda Mazda3 FWD,"$21,995","34,821 mi.",The Autobarn Mazda of Evanston,"Evanston, IL (11 mi.)",4.8,https://www.cars.com/vehicledetail/874aa3d0-e745-47de-955c-e720444a6028/
+2019 Mazda CX-5 Touring,"$20,995","55,775 mi.",The Autobarn Mazda of Evanston,"Evanston, IL (11 mi.)",4.8,https://www.cars.com/vehicledetail/3ef2c397-850e-4921-828c-80c9b763ff97/
+2022 Acura RDX Technology Package,"$32,599","37,649 mi.",McGrath Acura of Morton Grove,"Morton Grove, IL (15 mi.)",4.5,https://www.cars.com/vehicledetail/826777c1-fa1f-43fe-961a-89c3e5bef034/
+2020 Chevrolet Silverado 1500 LT Trail Boss,"$39,971","68,372 mi.",Advantage Chevrolet,"Hodgkins, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/d85ea077-a306-4878-9ac7-1c5d90593b08/
+2024 Chrysler Pacifica Limited,"$38,551","37,747 mi.",Hawk CDJR,"Forest Park, IL (10 mi.)",4.7,https://www.cars.com/vehicledetail/1c57e2e9-a052-4ae3-88e2-72026ffdf2b1/
+2024 Nissan Altima 2.5 SV,"$20,295","30,043 mi.",Countryside Mitsubishi,"Countryside, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/1a5da01b-eda9-4338-b260-ecfd95b40f14/
+2022 Alfa Romeo Stelvio Ti,"$27,450","29,601 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/8743692f-2909-4ccf-90e9-429a8275fb6e/
+2020 Lexus RX 350 Base,"$37,977","45,089 mi.",Woodfield Lexus,"Schaumburg, IL (26 mi.)",4.8,https://www.cars.com/vehicledetail/2119736d-9a4e-4141-aeff-4a84a752b597/
+2020 Buick Envision AWD Essence,"$20,475","50,295 mi.",Arlington Heights Buick GMC,"Arlington heights, IL (26 mi.)",4.9,https://www.cars.com/vehicledetail/b8c9f9fc-599f-4432-9f69-1be392499786/
+2022 Buick Envision FWD Preferred,"$23,978","14,730 mi.",Zeigler Buick GMC of Lincolnwood,"Lincolnwood, IL (10 mi.)",4.5,https://www.cars.com/vehicledetail/1d03818d-9ffb-49d1-b436-1f55dae00c21/
+2022 Audi Q5 45 S line Premium,"$33,999","21,516 mi.",Audi Morton Grove,"Morton Grove, IL (15 mi.)",4.9,https://www.cars.com/vehicledetail/2f032973-234e-44d0-841c-28335b079418/
+2025 Mazda CX-5 Select,"$29,614","4,288 mi.",Napleton's Countryside Mazda,"Countryside, IL (14 mi.)",4.3,https://www.cars.com/vehicledetail/844694dd-3d39-47a1-9a64-7db2959463ed/
+2022 INFINITI QX60 Luxe,"$38,128","33,926 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/3fd91dfb-ed6a-4baf-ba70-97abc8d808c3/
+2021 Maserati Levante S,"$45,432","17,712 mi.",Napleton Aston Martin Maserati,"Downers Grove, IL (19 mi.)",4.8,https://www.cars.com/vehicledetail/ffcd91b2-e33a-45a4-9c84-473b6c8e3d0a/
+2022 Chevrolet Silverado 1500 LT,"$28,881","91,583 mi.",South Oak Dodge Chrysler Jeep RAM,"Matteson, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/8d199e99-2a67-44b5-a2fe-f754c6b6fc48/
+2024 Honda Civic Touring,"$27,944","14,029 mi.",Mercedes-Benz of Chicago,"Chicago, IL (3 mi.)",4.7,https://www.cars.com/vehicledetail/e13a0758-0841-4976-8c74-3d1ef78d2ee2/
+2023 Audi Q5 45 S line Prestige,"$44,952","10,310 mi.",Fletcher Jones Audi,"Chicago, IL (3 mi.)",4.2,https://www.cars.com/vehicledetail/6296ce4b-386b-4310-90ff-ef854a2e5b06/
+2019 Acura RDX Technology Package,"$24,243","76,151 mi.",Zeigler Nissan of Orland Park,"Orland Park, IL (22 mi.)",4.8,https://www.cars.com/vehicledetail/7d71a59d-dc05-4251-928b-7a0b1d646167/
+2020 Ford F-250 Lariat,"$57,998","28,059 mi.",CarMax Dayton,N/A,0,https://www.cars.com/vehicledetail/3f9d6357-42e2-46c0-8f93-dc50a4d37c92/
+2019 Audi Q8 Premium,"$33,998","57,934 mi.",CarMax Midlothian,N/A,0,https://www.cars.com/vehicledetail/48a6fa21-571a-4a44-862b-458d344ceabc/
+2016 Lexus IS 300 Base,"$18,675","102,579 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/990e1ba9-4bb2-4043-86c1-49eca910a748/?attribution_type=premier
+2023 Cadillac Escalade Sport,"$71,897","40,633 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/297a729f-2845-4211-ae7c-e7ab72997182/
+2017 Buick Envision Premium I,"$13,395","116,239 mi.",The Autobarn Mazda of Evanston,"Evanston, IL (11 mi.)",4.8,https://www.cars.com/vehicledetail/cedc32f5-8807-48fd-844a-fd3a0ece1142/
+2022 BMW X3 xDrive30i,"$34,000","39,845 mi.",BMW of Orland Park,"Orland Park, IL (24 mi.)",4.6,https://www.cars.com/vehicledetail/7bd7e91d-9b8b-456f-a1cc-b46b6e6d9d7c/
+2021 Volkswagen Tiguan 2.0T SE R-Line Black,"$25,204","33,450 mi.",The Autobarn Volkswagen of Countryside,"Countryside, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/6f9f4302-4353-4a1a-8c21-896840098474/
+2023 Dodge Challenger GT,"$33,694","23,757 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/5659a21d-45f5-4111-9cc4-977604236da8/
+2025 Hyundai SANTA FE SEL,"$35,910","4,962 mi.",Family Hyundai,"Tinley Park, IL (22 mi.)",4.4,https://www.cars.com/vehicledetail/c99fa6f1-8a37-449b-95de-232dd88ea83b/
+2018 Acura MDX SH-AWD,"$25,587","41,843 mi.",The Audi Exchange,"Highland Park, IL (24 mi.)",4.9,https://www.cars.com/vehicledetail/28a7043b-af41-4144-838e-a06241076746/
+2022 Alfa Romeo Stelvio Ti,"$26,795","41,435 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/0cdef59f-5d6a-4a74-9f0b-0424f60b4eaf/
+2016 Honda Civic EX-T,"$15,290","83,234 mi.",Joe Rizza Acura,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/3dca67f8-1d1c-4a54-bdf7-318b59bf07c1/
+2017 Audi Q7 2.0T Premium,"$19,451","82,473 mi.",Fletcher Jones Audi,"Chicago, IL (3 mi.)",4.2,https://www.cars.com/vehicledetail/a90b3530-b063-4044-b9c6-450e3b3bc8f7/
+2025 Kia Sorento S,"$32,300","12,228 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/9b48c7e2-6fce-4c8f-aeec-edd8857b0674/
+2023 Hyundai SANTA FE SEL 2.4,"$22,295","48,662 mi.",Countryside Mitsubishi,"Countryside, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/247d4aa8-9c65-4ece-956c-e1bf8317f887/
+2024 Audi Q5 45 S line Premium Plus,"$46,570","3,448 mi.",The Audi Exchange,"Highland Park, IL (24 mi.)",4.9,https://www.cars.com/vehicledetail/f163f8fc-9dfb-4bae-9c0b-27c4aeeeedc9/
+2022 Honda Civic Sport,"$23,795","24,884 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/5e321821-4efb-4fdf-a5a6-908bc12cdc7d/
+2016 Acura MDX 3.5L,"$15,950","127,554 mi.",McGrath Acura of Morton Grove,"Morton Grove, IL (15 mi.)",4.5,https://www.cars.com/vehicledetail/bfbe5bd4-96b1-401d-93ae-f0449c5d39b0/
+2022 Nissan Altima 2.5 SV,"$21,950","32,085 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/56034ae3-ae1e-4155-bc9e-6969f14a4cce/
+2021 Acura RDX Technology Package,"$27,990","71,167 mi.",Joe Rizza Acura,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/ce12c7d6-1948-44c1-a876-da7c7d2adb0f/
+2021 Alfa Romeo Stelvio Ti,"$26,495","37,292 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/b6e5e8f2-c900-4f76-8438-fe2ec3425cff/
+2024 Jeep Grand Cherokee Laredo,"$32,895",425 mi.,Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/615d2d4b-4630-4126-aa9f-99b7075b508c/
+2024 Ford F-150 STX,"$45,865","3,823 mi.",Arlington Heights Ford,"Arlington Heights, IL (26 mi.)",5.0,https://www.cars.com/vehicledetail/0b7dcfd2-08c3-4773-b703-4d4ae25f876b/
+2023 Honda HR-V EX-L,"$28,998","29,430 mi.",CarMax Madison,N/A,0,https://www.cars.com/vehicledetail/dd5910b1-195f-4fe4-93b4-5ad525f4825b/
+2021 Ford Bronco Big Bend,"$36,998","24,279 mi.",CarMax Wilmington,N/A,0,https://www.cars.com/vehicledetail/4a5ac89e-9ab7-43cb-a6e8-13dc2674e997/
+2022 Lincoln Aviator Reserve AWD,"$46,350","22,632 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/8f568ad9-78f1-443a-a66e-c32d4a365ebe/?attribution_type=premier
+2023 RAM 1500 TRX,"$77,972","42,980 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/7781be4d-3658-4686-bf7d-756a9a4211e3/
+2019 Audi Q5 2.0T Premium Plus,"$27,991","21,338 mi.",Audi Naperville,"Naperville, IL (30 mi.)",4.6,https://www.cars.com/vehicledetail/6198f9a5-24d4-4091-9c78-6d3798bc298f/
+2023 Chrysler Pacifica Touring L,"$65,000","8,335 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/c33237a3-aa4f-4ad4-bcf7-075f69b7865e/
+2017 Acura MDX 3.5L w/Technology Package,"$22,950","80,669 mi.",Muller's Woodfield Acura,"Hoffman Estates, IL (27 mi.)",4.9,https://www.cars.com/vehicledetail/a3547a51-9bf6-4f58-b9dd-62e2e35bf05e/
+2022 Jeep Grand Cherokee Summit,"$44,000","35,616 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/bc94861b-e9cf-4516-8997-006de98ac9f8/
+2022 Toyota Camry SE,"$27,999","47,647 mi.",Orland Toyota,"Tinley Park, IL (22 mi.)",4.3,https://www.cars.com/vehicledetail/78dffafa-3ff7-4530-8734-246ba2bc976b/
+2021 Audi Q7 45 Premium Plus,"$34,587","48,302 mi.",The Audi Exchange,"Highland Park, IL (24 mi.)",4.9,https://www.cars.com/vehicledetail/c93d4829-f871-46d1-9e43-a04848f93eff/
+2024 Nissan Rogue SV,"$27,999","8,755 mi.",Countryside Nissan,"Countryside, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/e58725c5-6c09-4d25-a898-3b48052e577e/
+2020 Cadillac XT5 Luxury,"$25,486","39,928 mi.",Zeigler Cadillac of Lincolnwood,"Lincolnwood, IL (11 mi.)",4.4,https://www.cars.com/vehicledetail/4ec15441-197e-424e-8f19-fc925146b883/
+2021 Ford F-150 XLT,"$36,999","42,276 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/f380e9f8-66c2-4fc2-9ce3-088f7f069361/
+2025 Mercedes-Benz S-Class S 580 4MATIC,"$129,973","2,703 mi.",Autohaus on Edens,"Northbrook, IL (19 mi.)",4.7,https://www.cars.com/vehicledetail/c4c93337-f32d-4fcf-818c-3a6481e76fc7/
+2018 Jeep Grand Cherokee Sterling Edition,"$17,999","107,974 mi.",AutoNation Hyundai O'Hare,"Des Plaines, IL (16 mi.)",4.5,https://www.cars.com/vehicledetail/8e59f305-d981-4046-9653-d69b5da1cc14/
+2019 Ford F-150 XLT,"$22,971","129,316 mi.",Advantage Chevrolet,"Hodgkins, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/5875debd-bfa4-4f34-a001-3090b44d1a8b/
+2023 Hyundai SANTA FE SEL 2.4,"$20,800","65,285 mi.",Napleton River Oaks Honda,"Lansing, IL (22 mi.)",4.9,https://www.cars.com/vehicledetail/ae1d4cba-7698-4d00-81ef-3c9d8ac6c5bb/
+2019 Jeep Grand Cherokee High Altitude,"$28,478","86,261 mi.",Jack Phelan Chrysler Dodge Jeep RAM,"Countryside, IL (14 mi.)",4.8,https://www.cars.com/vehicledetail/9163cb05-506e-45e8-b221-2819915d0b3a/
+2024 BMW X3 xDrive30i,"$31,495","42,020 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/4193d9ed-bc57-4586-bd08-1ad73e9a5cf3/
+2021 Jeep Grand Cherokee 80th Anniversary 4X4,"$30,805","25,150 mi.",DuPage CDJR,"Glendale Heights, IL (23 mi.)",4.4,https://www.cars.com/vehicledetail/60b65373-4507-4112-9fe1-53f794c0a9c1/
+2021 Dodge Challenger GT,"$24,800","43,929 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/e245c924-709a-4e5f-96b9-6f5402defd6b/
+2016 Volvo XC90 T6 Inscription,"$15,850","111,785 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/684ff831-0d25-4891-9730-92856445f3e8/
+2017 Ford Mustang GT Premium,"$34,910","18,144 mi.",McGrath Acura of Westmont,"Westmont, IL (18 mi.)",4.8,https://www.cars.com/vehicledetail/08ed20e8-720e-498e-aa1d-e1e7974b6ebe/
+2019 Jeep Wrangler Unlimited Sahara,"$29,998","58,498 mi.",CarMax Charlottesville,N/A,0,https://www.cars.com/vehicledetail/2a5c3891-412a-4c98-aefb-4c94f7228b09/
+2017 Toyota Tacoma TRD Off Road,"$31,998","45,331 mi.",CarMax Salisbury,N/A,0,https://www.cars.com/vehicledetail/72e7f26d-a06d-4a39-881e-ae2610166248/
+2018 Toyota Camry SE,"$20,750","30,004 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/41c84a1c-9b38-4a62-8341-0df0da366e5b/?attribution_type=premier
+2023 GMC Sierra 1500 Denali Ultimate,"$64,995","19,907 mi.",The Chevrolet Exchange,"Lake Bluff, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/07ab60ac-5d27-47e2-a2a1-36b4efb46fce/
+2022 Alfa Romeo Stelvio Ti,"$29,186","32,210 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/15b5dc80-5374-48a7-9e0d-a197d3350232/
+2023 Jeep Wrangler 4-Door High Tide 4x4,"$43,000","20,456 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/1331f3e2-9c74-4e6f-9b05-7b6a1c3a2b60/
+2021 Land Rover Range Rover Sport HSE Dynamic,"$44,977","58,275 mi.",Gerald Nissan of Naperville,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/051a4439-cf3f-4000-8871-274b8aae15a1/
+2020 Chrysler 300 Touring,"$20,790","57,677 mi.",Thomas Dodge Chrysler Jeep RAM of Highland,"Highland, IN (26 mi.)",4.7,https://www.cars.com/vehicledetail/eba96712-4104-4160-8681-c7ca7a662988/
+2019 Volkswagen Atlas 3.6L SE w/Technology,"$25,888","36,885 mi.",Jennings Chevy / VW,"Glenview, IL (15 mi.)",4.7,https://www.cars.com/vehicledetail/3350b08f-f9bc-42f2-a5da-fa36b992a298/
+2018 Toyota Tacoma TRD Off Road,"$31,988","81,661 mi.",Dick Wickstrom Chevrolet,"Roselle, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/6751f9e9-8a52-4a0e-8bb9-84ec73da61b8/
+2023 Maserati Ghibli Modena Q4,"$59,662","12,610 mi.",McGrath Acura of Westmont,"Westmont, IL (18 mi.)",4.8,https://www.cars.com/vehicledetail/20135f60-466d-4077-9626-e59d6dcebea4/
+2025 INFINITI QX80 AUTOGRAPH AWD,"$93,888","3,741 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/54418ccf-43ba-45db-99ce-92aa50a57ebf/
+2023 MINI Hardtop Cooper S,"$24,888","20,360 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/6e938908-ad09-4027-8f38-54d6260da00c/
+2021 Chevrolet Silverado 1500 LT,"$32,806","72,331 mi.",Phillips Chevrolet,"Frankfort, IL (29 mi.)",5.0,https://www.cars.com/vehicledetail/922cf4b3-1140-4f2a-bd01-b15b317f0c73/
+2023 Honda Civic EX-L,"$25,877","40,517 mi.",Gerald Nissan of Naperville,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/a85e662d-8f89-4faf-817b-02c95ad5c241/
+2021 Acura RDX Advance Package,"$34,994","27,189 mi.",Mercedes-Benz of Chicago,"Chicago, IL (3 mi.)",4.7,https://www.cars.com/vehicledetail/767b9ea1-7b79-4b83-a9de-ea63e196a1c6/
+2022 Tesla Model 3 Performance,"$27,828","33,667 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/8f38dc30-5a7b-40da-b223-fc4159c44a3b/
+2016 Toyota Camry,"$16,788","64,626 mi.",Jennings Chevy / VW,"Glenview, IL (15 mi.)",4.7,https://www.cars.com/vehicledetail/221c5360-b54a-494b-92da-48f9af193d8d/
+2024 Honda Civic Sport,"$26,200","18,930 mi.",Schaumburg Honda Automobiles,"Schaumburg, IL (25 mi.)",4.8,https://www.cars.com/vehicledetail/d1dd03fa-a57d-4db5-9e6d-aa9730d52957/
+2020 Chrysler Pacifica Touring L,"$17,977","108,472 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/78727dcf-77a9-4a0e-96d7-d5031ef92892/
+2022 Jeep Grand Cherokee Summit,"$41,477","57,359 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/b647cfc5-9d5b-429e-aa7f-235061e330f5/
+2022 Mitsubishi Outlander SE 2.5 S-AWC,"$23,995","35,971 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/0bfe869a-5baf-4322-b51f-15367b637ade/
+2017 Volvo XC60 T5 Dynamic,"$16,600","71,673 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/7f56f5d4-d162-454f-8f82-825b88513724/
+2017 Toyota Tacoma TRD Off Road,"$31,998","45,331 mi.",CarMax Salisbury,N/A,0,https://www.cars.com/vehicledetail/72e7f26d-a06d-4a39-881e-ae2610166248/
+2023 Audi Q5 S-Line Premium Plus,"$30,998","56,105 mi.",CarMax Merrillville,N/A,0,https://www.cars.com/vehicledetail/fcbbaacc-a241-4ac7-9a9b-d9911c13bada/
+2017 Chevrolet Suburban Premier,"$24,600","111,527 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/aa0b1579-6bc9-43f7-82e9-17abac917961/?attribution_type=premier
+2023 Volvo XC90 Ultimate,"$53,200","48,412 mi.",Volvo Cars Lisle,"Lisle, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/3634b626-7ba5-47b6-96c3-53e9928e65ef/
+2024 MINI Countryman John Cooper Works ALL4,"$41,500","12,745 mi.",Napleton Porsche of Westmont,"Westmont, IL (18 mi.)",4.9,https://www.cars.com/vehicledetail/5ed03e65-5650-4b31-b841-9ea4eaeb3b61/
+2013 Acura RDX Base,"$12,377","103,415 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/232727d9-8078-46e6-964a-94779e02821d/
+2022 Cadillac XT5 Premium Luxury,"$34,644","18,824 mi.",Zeigler Buick GMC of Lincolnwood,"Lincolnwood, IL (10 mi.)",4.5,https://www.cars.com/vehicledetail/4583a995-0c6e-42bd-9daa-886bcabe8d54/
+2022 Cadillac XT5 Premium Luxury,"$36,100","28,223 mi.",Arnie Bauer Buick GMC of Matteson,"Matteson, IL (27 mi.)",4.3,https://www.cars.com/vehicledetail/6e1c02f4-773e-4280-a206-fad46db86dd8/
+2024 Kia Sorento SX Prestige,"$44,877","13,736 mi.",Gerald Nissan of Naperville,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/38f74273-da9a-44c3-ac29-cbc8f3a14ac1/
+2024 INFINITI QX60 Luxe,"$44,998","25,763 mi.",Countryside Nissan,"Countryside, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/4009728f-fb96-4e8e-82cd-57dc5fe395c7/
+2015 MINI Hardtop Cooper S,"$12,714","52,872 mi.",Napleton's Countryside Mazda,"Countryside, IL (14 mi.)",4.3,https://www.cars.com/vehicledetail/124e5948-7b30-4464-8c80-9f3ccf404125/
+2019 BMW X3 xDrive30i,"$21,495","60,538 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/95b91637-60df-4eca-8d48-1abf89261f45/
+2023 Nissan Rogue SV,"$23,695","21,548 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/ed87afa0-da81-4802-b1f8-ee1cd17e5a22/
+2022 Chevrolet Silverado 1500 Custom,"$29,972","55,682 mi.",Advantage Chevrolet of Bolingbrook,"Bolingbrook, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/ba5649a3-7c4c-4838-aeb1-998a52718d6c/
+2023 Alfa Romeo Stelvio Veloce AWD,"$29,888","36,502 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/06102e10-6241-4ed6-a7b4-39f82bda8d57/
+2022 Maserati Levante Modena,"$40,695","33,097 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/a117390e-486d-486c-a329-2b8753d7c2fb/
+2024 Ford F-150 Lariat,"$61,852","21,327 mi.",Golf Mill Ford,"Niles, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/2428ef9e-253e-4228-b759-43e10243cda6/
+2020 Honda Civic EX,"$24,455","36,917 mi.",Gerald Honda of Matteson,"Matteson, IL (27 mi.)",4.9,https://www.cars.com/vehicledetail/dc8e96fa-487c-4199-ad14-75afba9c32c8/
+2016 Volvo XC60 T6 Drive-E Platinum,"$16,898","75,271 mi.",The Autobarn Volvo Cars of Oak Park,"Oak Park, IL (9 mi.)",4.8,https://www.cars.com/vehicledetail/2321e245-ff89-4dc0-aebc-890992ce64ec/
+2018 Chevrolet Silverado 1500 1LT,"$19,750","124,820 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/da889712-58d3-4fdd-b4a6-dda693c8b50e/
+2018 Chevrolet Silverado 1500 LT,"$22,900","114,307 mi.",Arnie Bauer Buick GMC of Matteson,"Matteson, IL (27 mi.)",4.3,https://www.cars.com/vehicledetail/5a8108c0-f20e-4e10-a3c3-2c5b2c76f86a/
+2022 Hyundai SANTA FE SEL,"$24,687","47,033 mi.",Webb Hyundai Highland,"Highland, IN (25 mi.)",4.4,https://www.cars.com/vehicledetail/9cc41f07-e182-4f3f-add9-63d53863010e/
+2019 Nissan Altima 2.5 SR,"$17,500","75,483 mi.",Bill Kay Downers Grove Nissan,"Downers Grove, IL (21 mi.)",4.6,https://www.cars.com/vehicledetail/0581c7bf-726b-4e27-9b34-266daeb835ea/
+2024 Mitsubishi Eclipse Cross LE,"$25,998","8,782 mi.",CarMax Bristol,N/A,0,https://www.cars.com/vehicledetail/e2a88d6c-0cb3-4187-ab7f-c2bb6c38ecfe/
+2018 Jeep Cherokee Altitude,"$19,998","23,242 mi.",CarMax Albany,N/A,0,https://www.cars.com/vehicledetail/85f03093-0585-4d16-bd54-6969b93bab6c/
+2020 Toyota Camry XSE,"$24,950","71,343 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/1c85e4a0-142a-4f3f-b9cf-54083740eafc/?attribution_type=premier
+2024 Cadillac XT5 Premium Luxury,"$44,891","14,889 mi.",Heritage Cadillac,"Lombard, IL (20 mi.)",4.2,https://www.cars.com/vehicledetail/139925f9-9c56-4480-92d0-ce667041e7bc/
+2015 Jeep Grand Cherokee Limited,"$14,950","88,064 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/49fb635f-1686-4366-a381-1e18b3822254/
+2019 Honda Civic Sport,"$21,388","37,479 mi.",Honda of Lisle,"Lisle, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/5791efc4-32c2-4175-bb79-3d7b5a742227/
+2022 Alfa Romeo Stelvio Ti,"$30,989","6,620 mi.",Bill Kay Chevrolet,"Lisle, IL (23 mi.)",4.6,https://www.cars.com/vehicledetail/4973f8e9-6b14-46a4-8ca8-7792e6b86324/
+2021 Chevrolet Silverado 1500 High Country,"$46,899","26,879 mi.",The Chevrolet Exchange,"Lake Bluff, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/88895563-a935-4447-aa3e-ce95c9200746/
+2023 Toyota Tacoma TRD Sport,"$43,998","8,401 mi.",Continental Toyota,"Hodgkins, IL (15 mi.)",4.9,https://www.cars.com/vehicledetail/eb0207b3-0e19-4d6c-9afd-cc679be7d648/
+2020 Chevrolet Silverado 1500 LT,"$29,999","73,434 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/51ee434c-632f-4f47-824e-9c587fdfcb20/
+2025 Audi Q7 55 Premium Plus,"$66,991","13,510 mi.",Audi Naperville,"Naperville, IL (30 mi.)",4.6,https://www.cars.com/vehicledetail/4fbca726-b380-469d-b311-3c790da7c2d4/
+2023 Jeep Grand Cherokee Limited,"$37,796","23,508 mi.",Hawk CDJR,"Forest Park, IL (10 mi.)",4.7,https://www.cars.com/vehicledetail/729026ef-b8da-4aeb-9818-4fb742fe6a9e/
+2021 Honda Civic EX,"$22,074","60,342 mi.",McGrath City Honda,"Chicago, IL (9 mi.)",4.4,https://www.cars.com/vehicledetail/cb0a0f57-0f59-4f02-8eca-775293a71a51/
+2024 Audi Q5 40 Premium,"$39,277","7,290 mi.",Audi Westmont,"Westmont, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/53278bb7-6a2b-4b3f-abed-564cffad2807/
+2024 Nissan Altima 2.5 SL,"$28,477","1,648 mi.",Gerald Nissan of Naperville,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/f0b83a36-268b-4901-bcf6-f88481e2255c/
+2017 Honda Civic Touring,"$20,714","53,217 mi.",Napleton's Countryside Mazda,"Countryside, IL (14 mi.)",4.3,https://www.cars.com/vehicledetail/f6177466-168f-481c-8235-9529feb5fd7d/
+2021 Ford Mustang EcoBoost Premium,"$29,898","19,149 mi.",Golf Mill Ford,"Niles, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/99baec8e-1ac3-4440-8e66-f0e4485ea4bd/
+2022 Jeep Grand Cherokee Limited X,"$26,272","65,450 mi.",Advantage Chevrolet of Bolingbrook,"Bolingbrook, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/35016444-070c-45ba-9e2c-dc314a75af15/
+2022 Alfa Romeo Stelvio Ti,"$28,502","22,064 mi.",Bill Kay Downers Grove Nissan,"Downers Grove, IL (21 mi.)",4.6,https://www.cars.com/vehicledetail/0da8b8dc-f28e-4a54-8efb-7041da351d3a/
+2024 Mazda CX-5 Carbon Edition,"$25,893","25,293 mi.",Tasca Chevrolet Wheeling,"Wheeling, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/237b7ad1-d640-44e3-bf05-592ce2c7c82f/
+2022 RAM 1500 Big Horn/Lone Star,"$38,000","37,396 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/6abca78b-90cf-460e-b666-8b01f64e52e3/
+2014 Honda Civic LX,"$8,995","137,120 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/f29042e5-f787-4356-a467-3a9d3fb9ffc6/
+2019 Volkswagen Tiguan 2.0T SE 4MOTION,"$21,440","33,897 mi.",City Volkswagen of Chicago,"Chicago, IL (9 mi.)",5.0,https://www.cars.com/vehicledetail/e0e706f5-081e-4c3c-a3ca-f008a7004845/
+2022 Cadillac CT4-V,"$36,998","24,055 mi.",CarMax Roswell,N/A,0,https://www.cars.com/vehicledetail/fc76f29e-96c7-42d1-ace7-4fc7d606b7f2/
+2023 Genesis G70 2.0T,"$27,998","31,582 mi.",CarMax Jackson (TN),N/A,0,https://www.cars.com/vehicledetail/0b330e29-6e8c-4196-ae30-bf1e1ff3bef6/
+2018 Honda Civic EX-L,"$20,000","62,072 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/add3e6a8-a978-4717-bfa9-b2dae3b99678/
+2013 Honda Civic EX-L,"$12,999","115,734 mi.",Audi Morton Grove,"Morton Grove, IL (15 mi.)",4.9,https://www.cars.com/vehicledetail/40d19e0a-83f4-49e0-bd12-e33f211e1d62/
+2017 Honda Civic Sport,"$19,571","57,443 mi.",Advantage Chevrolet,"Hodgkins, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/2a83c112-e579-463e-9de5-cf76ca1fb484/
+2024 Honda Civic Sport,"$26,595","6,140 mi.",Muller's Woodfield Acura,"Hoffman Estates, IL (27 mi.)",4.9,https://www.cars.com/vehicledetail/3071b9ef-0f30-49cb-9d37-52859904dcc5/
+2012 Audi Q5 3.2 Premium Plus,"$9,232","106,404 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/04ecc27d-ab44-4dce-aa48-35c3c9e340f5/
+2022 Alfa Romeo Giulia Ti,"$24,695","37,207 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/7640f991-4955-4ce8-aa6d-4359fe3838cb/
+2020 Honda Accord EX-L 1.5T,"$21,995","58,994 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/a260d600-fdf9-4227-bede-148a4d77c520/
+2020 Buick Envision FWD Essence,"$20,950","34,816 mi.",Rizza Cadillac Buick GMC,"Tinley Park, IL (22 mi.)",4.5,https://www.cars.com/vehicledetail/ed744e99-d02c-4549-98ff-e289ac277567/
+2024 Mazda CX-5 2.5 S Carbon Edition,"$27,677","23,836 mi.",Gerald Nissan of Naperville,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/6782d5f4-5454-4b58-b4eb-4cc746fcec63/
+2025 Acura MDX A-SPEC,"$55,795","3,612 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/3a4ffd76-91b6-47e2-a09b-120f32ca9fe7/
+2022 Honda Civic EX,"$25,997","7,525 mi.",AutoNation Honda O'Hare,"Des Plaines, IL (16 mi.)",4.6,https://www.cars.com/vehicledetail/abcd44c9-b3ca-459a-abf5-c5429025dd73/
+2022 Buick Enclave AWD Avenir,"$39,991","44,230 mi.",INFINITI of Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.7,https://www.cars.com/vehicledetail/480aa826-5cb9-418a-bba5-eac6f25bd828/
+2020 Tesla Model 3 Long Range,"$24,997","35,176 mi.",Jaguar Land Rover Hinsdale,"Hinsdale, IL (16 mi.)",4.7,https://www.cars.com/vehicledetail/7a8ae4d8-f67a-4f0d-8339-38d42bdec1c0/
+2022 Volvo XC90 T6 Inscription,"$48,680","32,458 mi.",The Autobarn Volvo Cars of Oak Park,"Oak Park, IL (9 mi.)",4.8,https://www.cars.com/vehicledetail/19e473ec-c017-44d5-88b1-6a559ab07ec1/
+2021 Chevrolet Silverado 1500 RST,"$34,721","87,111 mi.",Phillips Chevrolet of Lansing,"Lansing, IL (22 mi.)",5.0,https://www.cars.com/vehicledetail/c8b4ba47-3e78-4564-ae4c-f238f3b36b0b/
+2025 Toyota Camry XSE,"$43,488",715 mi.,Schaumburg Toyota,"Schaumburg, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/c93a00c9-c293-49ff-a65a-b73e11f9bb9a/
+2022 Chevrolet Silverado 1500 LT,"$31,888","30,779 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/6736f0ad-f540-433e-b040-aacf48d8a52e/
+2015 Jeep Wrangler Sport,"$17,990","69,461 mi.",South Oak Dodge Chrysler Jeep RAM,"Matteson, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/b6d3fb90-e8aa-4336-a6cf-2c62d70815f0/
+2023 Audi Q7 55 Prestige,"$46,000","41,297 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/6130dce0-d070-45b0-9a8b-a172ee93fe50/
+2024 Mitsubishi Outlander SE Black Edition S-AWC,"$26,985","43,928 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/5cf27240-1f33-4116-af4d-79e84ec46a2f/
+2024 Subaru BRZ Premium,"$30,998","15,015 mi.",CarMax Cincinnati,N/A,0,https://www.cars.com/vehicledetail/4d3ca3be-47b6-4e8d-8736-f8e9e1d86fd7/
+2022 Hyundai Santa Fe Plug-In Hybrid SEL Convenience,"$29,998","16,297 mi.",CarMax Jacksonville NC,N/A,0.0,https://www.cars.com/vehicledetail/21bac478-b60c-4967-a07b-1b7f1a63e49d/
+2025 Mazda CX-5 2.5 S Preferred Package,"$30,990","3,376 mi.",McGrath Lexus Chicago,"Chicago, IL (2 mi.)",4.8,https://www.cars.com/vehicledetail/c05bc1f4-d1a4-4943-b441-873e4b14c0ca/
+2022 Chevrolet Silverado 1500 Custom Trail Boss,"$37,737","48,722 mi.",Castle Chevrolet of Villa Park,"Villa Park, IL (17 mi.)",4.4,https://www.cars.com/vehicledetail/b62ae881-7e70-409c-ad94-49252298a723/
+2017 Acura MDX 3.5L w/Technology Package,"$20,713","85,149 mi.",Phillips Chevrolet,"Frankfort, IL (29 mi.)",5.0,https://www.cars.com/vehicledetail/66876216-8dce-4516-a14e-7f7d1043fd21/
+2020 Nissan Rogue SV,"$19,990","47,101 mi.",Bill Kay Downers Grove Nissan,"Downers Grove, IL (21 mi.)",4.6,https://www.cars.com/vehicledetail/caded18b-f857-4554-ad61-a8849e83198a/
+2022 Jeep Grand Cherokee Limited X,"$31,898","47,673 mi.",Napleton Downtown Chevrolet Buick GMC,"Chicago, IL (3 mi.)",4.4,https://www.cars.com/vehicledetail/2703f850-c6dc-40d7-b432-c1fb95195430/
+2024 Alfa Romeo Giulia Ti,"$33,995","39,714 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/57ff1fb3-665e-4bd3-903f-6b5901b45400/
+2019 Audi Q7 55 Premium Plus,"$23,491","71,986 mi.",Laurel BMW of Westmont,"Westmont, IL (18 mi.)",4.6,https://www.cars.com/vehicledetail/58acffde-9075-4bd5-9367-86b3cca2686a/
+2019 Chrysler Pacifica Limited,"$21,999","69,185 mi.",Fair Oaks Ford,"Naperville, IL (30 mi.)",4.8,https://www.cars.com/vehicledetail/78f0a6dd-d2c9-4d7c-ab2c-798eb28b57b8/
+2023 Jeep Grand Cherokee Limited X,"$34,272","20,332 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/bd4e74ce-fbd0-4f2b-a17b-5f8aea3e4aa7/
+2013 Mazda CX-5 Touring,"$16,000","38,039 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/bf271fbf-8223-4628-ab42-f30cb20eb28a/
+2020 Kia Telluride S,"$22,997","83,769 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/53f75c9c-278f-45f0-a07e-d94f3af08d99/
+2022 Audi Q7 55 Premium Plus,"$44,495","27,250 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/4da233c0-5944-4112-909e-e70615752af7/
+2010 Buick Enclave 1XL,"$14,998","29,407 mi.",Toyota of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/2f756910-a1b3-4aa2-87f9-292d18ca57fd/
+2021 Chevrolet Silverado 1500 LT Trail Boss,"$45,966","34,033 mi.",Golf Mill Ford,"Niles, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/ebca5152-dba4-4cb4-9863-c4712d4244e8/
+2022 Buick Enclave AWD Essence,"$33,950","40,805 mi.",Rizza Cadillac Buick GMC,"Tinley Park, IL (22 mi.)",4.5,https://www.cars.com/vehicledetail/fd32b437-6fc7-4bcb-b259-8fdd4a8b709f/
+2024 Alfa Romeo Giulia Ti,"$37,100","1,011 mi.",Napleton Aston Martin Maserati,"Downers Grove, IL (19 mi.)",4.8,https://www.cars.com/vehicledetail/373668b6-0823-4e50-a0eb-781cc8485594/
+2023 Buick Envision Essence FWD,"$24,800","42,830 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/5b062f1c-073a-499d-9d88-4c04fa3251b6/
+2022 BMW X5 xDrive40i,"$51,500","12,790 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/74eea459-76c8-4273-a866-b89b6b0db1fb/
+2024 Honda Accord EX,"$27,300","22,451 mi.",Schaumburg Honda Automobiles,"Schaumburg, IL (25 mi.)",4.8,https://www.cars.com/vehicledetail/66c4749a-5b6c-4d55-878e-5f9ec471212d/
+2021 Alfa Romeo Giulia Ti,"$23,595","41,807 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/965b59f8-f60c-4042-a1a4-cdb3642952c2/
+2023 Kia Sportage Hybrid EX,"$27,998","49,225 mi.",CarMax Cool Springs,N/A,0,https://www.cars.com/vehicledetail/5082576d-a05c-4778-86d1-d477b20984ac/
+2022 Jaguar F-TYPE R,"$66,998","29,267 mi.",CarMax Serramonte,N/A,0,https://www.cars.com/vehicledetail/7fad9cc2-adb2-4356-9225-1800983fe047/
+2023 Jeep Grand Cherokee Altitude,"$33,249","27,513 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/f32062cc-2e68-42f6-ba10-67d974e36af6/
+2015 INFINITI QX60 Base,"$13,572","87,162 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/c12243cc-a49f-44e8-acdd-7bdd3950886e/
+2020 RAM 1500 Laramie,"$29,750","100,952 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/14539234-78d0-46db-ab0c-21d92044d8b1/
+2024 Nissan Altima 2.5 SL,"$27,999","18,748 mi.",Countryside Nissan,"Countryside, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/e318c927-abd2-4c08-9c80-c5b99f9035f7/
+2022 Alfa Romeo Giulia Ti,"$27,095","12,576 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/c09548d1-a03a-4eba-8697-489d2ffa4e55/
+2024 Jeep Grand Cherokee Limited X,"$42,700","13,503 mi.",Joe Rizza Ford Lincoln,"Orland Park, IL (22 mi.)",4.4,https://www.cars.com/vehicledetail/54d613d5-fa98-475c-a87c-d4c21861e7e5/
+2024 Ford Mustang EcoBoost Premium,"$32,870","35,576 mi.",Bill Kay Chevrolet,"Lisle, IL (23 mi.)",4.6,https://www.cars.com/vehicledetail/3b39c7a7-d28a-4a86-8422-b88e3613b9c1/
+2018 Audi Q5 2.0T Premium Plus,"$17,995","87,723 mi.",McGrath Acura of Morton Grove,"Morton Grove, IL (15 mi.)",4.5,https://www.cars.com/vehicledetail/a9b708f2-007f-4297-90ef-9d5fb8d2b614/
+2022 Ford Mustang EcoBoost Premium,"$24,995","62,179 mi.",Lombard Toyota,"Lombard, IL (21 mi.)",4.4,https://www.cars.com/vehicledetail/7f3bc882-dd7e-4331-ac7f-dcd29f628154/
+2025 Audi Q5 55 S line Premium Plus,"$55,900","2,070 mi.",Napleton Porsche of Westmont,"Westmont, IL (18 mi.)",4.9,https://www.cars.com/vehicledetail/53a548fb-03a9-4b06-afab-ce9bcc6a69f5/
+2024 Ford Mustang EcoBoost Premium,"$33,481","36,986 mi.",South Oak Dodge Chrysler Jeep RAM,"Matteson, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/853d7d8d-4d3d-450f-bf15-7e3b51981019/
+2016 Ford Mustang EcoBoost Premium,"$16,949","93,662 mi.",Midway Dodge,"Chicago, IL (7 mi.)",4.6,https://www.cars.com/vehicledetail/411956ca-5792-4e73-8ebf-41f94a533da8/
+2015 Audi Q5 2.0T Premium Plus,"$12,975","115,178 mi.",Muller's Woodfield Acura,"Hoffman Estates, IL (27 mi.)",4.9,https://www.cars.com/vehicledetail/83d28e3c-be2a-4ee1-a61b-a8f3daea7583/
+2019 Acura MDX 3.5L w/Technology Package,"$26,990","61,274 mi.",McGrath Lexus Chicago,"Chicago, IL (2 mi.)",4.8,https://www.cars.com/vehicledetail/e9531b16-db9e-47fe-8587-39c4a223b68f/
+2022 Hyundai SANTA FE Limited,"$30,910","38,204 mi.",Patrick Hyundai of Schaumburg,"Schaumburg, IL (25 mi.)",4.1,https://www.cars.com/vehicledetail/ab882bb6-2c49-4b14-8f5d-908ef9f09e32/
+2023 Acura RDX Base,"$38,995","12,740 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/0d595f45-e215-449d-828b-6c55d9b4c503/
+2022 Audi Q5 45 S line Premium,"$30,796","40,038 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/81ad4a54-3336-40da-a173-aaa69fa66ffa/
+2019 BMW X5 xDrive40i,"$36,797","42,717 mi.",McGrath City Honda,"Chicago, IL (9 mi.)",4.4,https://www.cars.com/vehicledetail/3b62cb44-0cc2-44ea-847a-51ce49cd7ac6/
+2019 BMW X3 xDrive30i,"$25,700","33,406 mi.",Napleton River Oaks Honda,"Lansing, IL (22 mi.)",4.9,https://www.cars.com/vehicledetail/ba5e4a68-af29-4f66-8c92-5cca132eef3c/
+2019 Tesla Model 3 Long Range,"$21,000","35,406 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/25ee490e-02f0-497b-851e-50a4d5bf01e9/
+2024 Cadillac LYRIQ Luxury 1,"$40,998","25,114 mi.",CarMax Knoxville,N/A,0,https://www.cars.com/vehicledetail/01d7c472-c854-446b-9731-c64e164565dd/
+2022 Jeep Grand Cherokee L Limited,"$39,998","20,778 mi.",CarMax Jacksonville NC,N/A,0.0,https://www.cars.com/vehicledetail/7b7fbd9b-44d8-4ded-b726-dae6896af597/
+2022 Subaru Forester Premium,"$27,894","10,796 mi.",Muller Honda,"Highland Park, IL (22 mi.)",4.8,https://www.cars.com/vehicledetail/72b246a7-04a4-45fa-a035-d72fd30001fa/
+2022 Audi Q5 45 S line Premium Plus,"$32,000","64,801 mi.",Al Piemonte Nissan,"Melrose Park, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/3ea1a703-c8f4-4dfe-adb2-40ae4c496c9c/
+2025 BMW X5 xDrive40i,"$62,099","31,012 mi.",BMW of Orland Park,"Orland Park, IL (24 mi.)",4.6,https://www.cars.com/vehicledetail/baebdb04-350c-4713-8a06-b6df81258c7d/
+2023 Hyundai SANTA FE SEL 2.4,"$21,985","42,756 mi.",Jidd Motors Mitsubishi,"Des Plaines, IL (18 mi.)",4.7,https://www.cars.com/vehicledetail/e8f96878-b7d5-433f-a88e-c15a0a141b88/
+2024 Audi Q5 40 Premium,"$39,900","4,078 mi.",McGrath Acura of Westmont,"Westmont, IL (18 mi.)",4.8,https://www.cars.com/vehicledetail/8b3ead40-046c-4c5e-8af8-51f81bff7af9/
+2020 Acura MDX 3.5L w/Technology Package,"$29,394","57,595 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/de47980f-9403-414d-bbea-b3edbb423f89/
+2022 RAM 1500 Sport,"$42,473","21,980 mi.",Tasca Chevrolet Wheeling,"Wheeling, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/dcf43bc8-c1a0-4ac2-bc9c-02c06a1ac17c/
+2014 Chevrolet Silverado 1500 LT,"$22,794","85,278 mi.",INFINITI of Clarendon Hills,"Clarendon Hills, IL (18 mi.)",4.9,https://www.cars.com/vehicledetail/89f2e497-f2b9-4212-a436-14d8706360ae/
+2022 Acura MDX Base,"$41,990","29,241 mi.",Joe Rizza Acura,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/22660105-fea7-4e95-96d0-79830854026f/
+2024 Acura MDX A-SPEC,"$49,000","24,614 mi.",Al Piemonte Nissan,"Melrose Park, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/b3e2874a-aef0-4051-9794-a26efd7390b8/
+2019 Tesla Model 3 Long Range,"$18,995","79,893 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/1a804b50-24a5-42b3-81f3-29bdd4f48f6f/
+2022 Dodge Charger GT,"$33,000","20,004 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/b21757b4-024f-4ad3-8423-48ad3c1c4ced/
+2024 INFINITI QX60 Luxe,"$44,995","32,154 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/0303c655-7af0-496c-a63a-d0f041ec5d65/
+2023 Acura MDX A-SPEC,"$45,995","19,725 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/7b7145cb-9c54-4ab5-9810-f2c9d660fc88/
+2018 RAM 1500 Tradesman,"$21,000","86,972 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/b9784c74-9e99-43ea-a70b-3e92616be512/
+2018 BMW X5 xDrive50i,"$23,000","88,120 mi.",Napleton River Oaks Honda,"Lansing, IL (22 mi.)",4.9,https://www.cars.com/vehicledetail/6295c639-d057-45b2-a0fc-64c9430750bf/
+2021 BMW X5 xDrive40i,"$35,714","50,598 mi.",Napleton's Countryside Mazda,"Countryside, IL (14 mi.)",4.3,https://www.cars.com/vehicledetail/bd119440-8d8f-42f2-aa7b-0f0049263929/
+2022 BMW X5 xDrive40i,"$43,990","34,287 mi.",Laurel BMW of Westmont,"Westmont, IL (18 mi.)",4.6,https://www.cars.com/vehicledetail/27160840-16cd-4e8b-ae1f-ae92b83d9c31/
+2023 Nissan Rogue SL,"$32,000","15,176 mi.",Al Piemonte Nissan,"Melrose Park, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/ce67c361-36e1-496e-a4ee-5b4b4edd4d3d/
+2014 Audi Q5 2.0T Premium Plus,"$9,977","145,404 mi.",Volkswagen of Orland Park,"Orland Park, IL (22 mi.)",4.1,https://www.cars.com/vehicledetail/cc9d44d7-4238-4328-9f83-f5d1d420c493/
+2022 Lexus ES 250,"$30,998","37,890 mi.",CarMax Charlottesville,N/A,0,https://www.cars.com/vehicledetail/dd896813-27f3-4d5b-9189-84a951e56290/
+2022 Acura TLX A-Spec,"$35,998","18,460 mi.",CarMax Myrtle Beach,N/A,0,https://www.cars.com/vehicledetail/33437446-794f-4bcb-86c2-f1e08a2b552e/
+2022 Lexus ES 350 Base,"$37,995","27,284 mi.",Woodfield Lexus,"Schaumburg, IL (26 mi.)",4.8,https://www.cars.com/vehicledetail/4bd35c09-fc1b-46da-9585-281e090ecc2c/
+2023 Chevrolet Silverado 1500 LTZ,"$44,998","37,855 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/6f482613-a5a7-4d28-abb6-052efff5509d/
+2022 Toyota Tacoma TRD Off Road,"$38,680","30,786 mi.",Lombard Toyota,"Lombard, IL (21 mi.)",4.4,https://www.cars.com/vehicledetail/4da90f5e-4ecc-41c5-a189-3b5a263b6333/
+2021 Buick Enclave FWD Essence,"$25,888","61,297 mi.",Napleton Downtown Chevrolet Buick GMC,"Chicago, IL (3 mi.)",4.4,https://www.cars.com/vehicledetail/03e5ccec-aa8d-4c0c-8339-87ad91288be9/
+2020 Subaru Outback Onyx Edition XT,"$27,000","33,566 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/92c7ee2d-a956-4fd8-9e97-7c2899966b9a/
+2020 RAM 1500 Laramie,"$32,971","64,698 mi.",Advantage Chevrolet,"Hodgkins, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/d6accbee-ee9a-4744-8296-cb7037b7e21c/
+2018 Buick Enclave Premium,"$23,500","51,188 mi.",Arnie Bauer Buick GMC of Matteson,"Matteson, IL (27 mi.)",4.3,https://www.cars.com/vehicledetail/a9546db3-ba89-46f2-a29d-264960396bbf/
+2019 Nissan Rogue SV,"$16,314","81,573 mi.",Oak Lawn Toyota,"Oak Lawn, IL (13 mi.)",4.7,https://www.cars.com/vehicledetail/fdd7c661-082e-4748-a8eb-35d687bf455a/
+2021 Toyota Tacoma TRD Sport,"$38,798","39,284 mi.",Toyota of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/15aad6fa-fc69-4fa7-af0e-a303e6512af0/
+2021 Toyota Tacoma SR5,"$33,000","64,822 mi.",Team Toyota,"Schererville, IN (27 mi.)",4.8,https://www.cars.com/vehicledetail/711f5059-61c1-4d9c-a766-c65795fb01dc/
+2023 Dodge Challenger GT,"$29,888","21,327 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/f0221c72-0d5a-46fc-8cee-f49c1f16b0a6/
+2017 Subaru Forester 2.5i Limited,"$17,988","65,850 mi.",Willowbrook Ford Kia,"Willowbrook, IL (19 mi.)",4.2,https://www.cars.com/vehicledetail/0b9c6061-0125-4f43-8699-e2ed581cafae/
+2022 Dodge Challenger GT,"$21,950","62,342 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/37a30d39-7302-4a5c-a752-216a367e2e27/
+2022 Chrysler 300 Touring,"$21,971","56,909 mi.",Zeigler Cadillac of Lincolnwood,"Lincolnwood, IL (11 mi.)",4.4,https://www.cars.com/vehicledetail/88383d64-86f9-4301-ba5a-c87db2f24680/
+2023 Audi Q5 45 S line Premium Plus,"$28,847","57,638 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/45919052-1059-4a72-a117-e73bd81a4bf4/
+2023 Cadillac XT5 Premium Luxury,"$26,300","72,921 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/d88cb179-c536-46a8-a1c8-24634f009ac4/
+2022 RAM 1500 Laramie,"$44,277","22,568 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/23ffb130-ae8c-4b8f-b01c-64265d172b25/
+2020 Chevrolet Silverado 1500 WT,"$29,774","48,108 mi.",Webb Chevy,"Oak Lawn, IL (13 mi.)",4.7,https://www.cars.com/vehicledetail/d7e6ba8b-1544-443c-9d17-68dc1cbcd33f/
+2022 Ford F-150 King Ranch,"$61,497","11,280 mi.",Currie Motors Ford of Frankfort,"Frankfort, IL (29 mi.)",4.8,https://www.cars.com/vehicledetail/757b1ea1-8023-4652-baf8-b77d12a2fbfa/
+2024 Mazda CX-5 Carbon Edition,"$27,482","20,015 mi.",Jack Phelan Chrysler Dodge Jeep RAM,"Countryside, IL (14 mi.)",4.8,https://www.cars.com/vehicledetail/d5ea6b97-1508-4ac2-b4e6-cb6d2b6e5590/
+2016 Toyota 4Runner SR5 Premium,"$30,998","67,116 mi.",CarMax Cool Springs,N/A,0,https://www.cars.com/vehicledetail/54c65c17-6d8e-41d6-bf8e-a47be2ab3fe6/
+2022 Honda CR-V Touring,"$35,998","9,920 mi.",CarMax Fayetteville,N/A,0,https://www.cars.com/vehicledetail/864ebb99-520f-4815-a9e5-5d75df092581/
+2020 INFINITI QX80 Luxe,"$29,000","89,851 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/b27fe4a4-4ebe-433e-bc7c-fb567fcb0e48/
+2014 Buick Enclave Leather,"$10,975","123,753 mi.",Arlington Heights Buick GMC,"Arlington heights, IL (26 mi.)",4.9,https://www.cars.com/vehicledetail/baf233c0-5557-4b23-b8b4-f25d669e7648/
+2021 Jeep Grand Cherokee Trailhawk,"$31,995","31,726 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/b82e41e8-a8c5-488f-9536-ac5538eba260/
+2023 Ford F-150 XLT,"$42,988","18,177 mi.",Willowbrook Ford Kia,"Willowbrook, IL (19 mi.)",4.2,https://www.cars.com/vehicledetail/65635248-4cdb-4ee7-a4c3-6dd92672e2f1/
+2022 Ford F-150 Tremor,"$45,590","55,936 mi.",Joe Rizza Ford Lincoln,"Orland Park, IL (22 mi.)",4.4,https://www.cars.com/vehicledetail/9b909399-01d9-460f-be9e-d482067b1aef/
+2023 Hyundai PALISADE Calligraphy,"$38,995","32,500 mi.",DuPage CDJR,"Glendale Heights, IL (23 mi.)",4.4,https://www.cars.com/vehicledetail/dfdcd637-70a2-456c-867a-ed4812fdf2b6/
+2020 Jeep Grand Cherokee Limited,"$27,315","58,523 mi.",Phillips Chevrolet,"Frankfort, IL (29 mi.)",5.0,https://www.cars.com/vehicledetail/79af3b8c-cbbc-4c04-a98b-b23a11e3b003/
+2016 Volvo XC90 T6 Momentum,"$18,995","92,028 mi.",Fields Lexus Glenview,"Glenview, IL (17 mi.)",4.8,https://www.cars.com/vehicledetail/73bfa29c-338a-4563-8dfd-3ee0f1c560f3/
+2022 Chevrolet Silverado 1500 LT Trail Boss,"$40,977","56,574 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/6b3661eb-91c9-4e6a-b5b9-641c32b5f0ec/
+2025 Mazda CX-5 Preferred,"$31,875","7,717 mi.",Golf Mill Ford,"Niles, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/bda8059c-a42b-4ffd-94d9-f523c177edfb/
+2020 Jeep Grand Cherokee Altitude,"$19,795","107,254 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/a64a6f78-01bc-4063-ac79-4510c8e1437b/
+2021 Mazda Mazda3 FWD,"$17,980","44,739 mi.",Audi Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.6,https://www.cars.com/vehicledetail/7b750c44-c898-4191-8537-71728eefeffa/
+2018 Ford F-150 XLT,"$24,839","95,925 mi.",Webb Chevy,"Oak Lawn, IL (13 mi.)",4.7,https://www.cars.com/vehicledetail/1e6f1f14-9035-402d-9b2b-b1ed2d456068/
+2023 Buick Enclave Essence FWD,"$31,899","34,996 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/fa48ecda-6c04-42b2-9b82-db1613406759/
+2022 Ford F-150 Lariat,"$26,994","39,253 mi.",Mercedes-Benz of Chicago,"Chicago, IL (3 mi.)",4.7,https://www.cars.com/vehicledetail/a0af1618-96f6-4a1b-af1f-d0c275a5ce5e/
+2019 INFINITI QX60 Luxe,"$27,860","48,605 mi.",Lombard Toyota,"Lombard, IL (21 mi.)",4.4,https://www.cars.com/vehicledetail/7aa56672-95a8-4cf1-b8d6-b14a77d5ca1b/
+2022 Chevrolet Silverado 1500 LTZ,"$42,500","41,022 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/e567426c-eb1d-4833-92c2-545bf4b132b3/
+2025 Toyota Camry LE,"$31,590","46,040 mi.",Toyota of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/a8cc6036-f472-439a-9e01-ddf5c7042d90/
+2021 Tesla Model 3 Long Range,"$25,024","20,297 mi.",Zeigler Cadillac of Lincolnwood,"Lincolnwood, IL (11 mi.)",4.4,https://www.cars.com/vehicledetail/23f95d8e-82a6-440f-8ee1-9a8291a1532e/
+2016 Mazda Mazda3 i Sport,"$12,488","122,964 mi.",McGrath Elmhurst Toyota,"Elmhurst, IL (17 mi.)",4.2,https://www.cars.com/vehicledetail/2e26057e-4086-4e70-8a2c-bf1c72e79c64/
+2021 Mercedes-Benz GLC 300,"$27,998","41,069 mi.",CarMax Myrtle Beach,N/A,0,https://www.cars.com/vehicledetail/78c2dc8c-bed6-4b29-9033-d611c1c83b44/
+2021 Cadillac CT5 Premium Luxury,"$37,998","23,477 mi.",CarMax Huntsville,N/A,0,https://www.cars.com/vehicledetail/4880c241-35bf-4b59-8c7e-86fc8af1c2c1/
+2023 Ford F-150 XLT,"$34,750","66,938 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/7b6badfd-f5fa-4419-bb6e-902f6ee01990/
+2024 Ford F-150 XLT,"$42,775","19,456 mi.",Bill Kay Buick GMC,"Downers Grove, IL (22 mi.)",4.5,https://www.cars.com/vehicledetail/272dc4b2-adbe-4003-b1e8-3bf5ae2ad34d/
+2021 Ford F-150 XL,"$30,300","61,212 mi.",Team Toyota,"Schererville, IN (27 mi.)",4.8,https://www.cars.com/vehicledetail/703117e4-7d6d-4a3d-a4d3-27d45c57d654/
+2024 Volkswagen Atlas 2.0T SE w/Technology,"$39,577","8,588 mi.",Volkswagen of Orland Park,"Orland Park, IL (22 mi.)",4.1,https://www.cars.com/vehicledetail/6929f14f-e002-4e4e-ad9c-085577e1fc32/
+2022 Buick Enclave AWD Essence,"$30,000","54,064 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/ae84e740-fc22-43db-9d70-9fd0e24d2bee/
+2022 Mazda Mazda3 AWD w/Premium Package,"$21,270","57,775 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/075cb11a-67cc-4b34-a1e4-f45fccb94855/
+2015 RAM 1500 Tradesman,"$12,995","158,065 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/f1f40ac2-5277-488e-af76-bdf0f5cd0c92/
+2019 Chevrolet Silverado 1500 RST,"$32,966","34,640 mi.",Currie Motors Ford of Frankfort,"Frankfort, IL (29 mi.)",4.8,https://www.cars.com/vehicledetail/649c32d7-0f6f-4872-a59d-9f3ebb5aff5f/
+2020 GMC Sierra 1500 AT4,"$42,000","62,397 mi.",Arnie Bauer Buick GMC of Matteson,"Matteson, IL (27 mi.)",4.3,https://www.cars.com/vehicledetail/dbf1f322-b317-4c7d-adb3-9149a8fd9624/
+2022 Buick Enclave AWD Essence,"$31,985","51,090 mi.",Castle Chevrolet of Villa Park,"Villa Park, IL (17 mi.)",4.4,https://www.cars.com/vehicledetail/3cff13bf-f8d6-47f8-82ea-4ee4a1014732/
+2023 GMC Sierra 1500 Elevation,"$52,337","4,518 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/6a80febb-c9c6-46c4-a1cf-6bb44af01d4f/
+2022 Buick Envision FWD Preferred,"$23,313","32,989 mi.",Chevrolet of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/2fd862de-db37-4dd0-a0f5-6e25327d2eca/
+2023 Chevrolet Silverado 1500 LT Trail Boss,"$46,599","47,822 mi.",Currie Motors Chevrolet,"Forest Park, IL (10 mi.)",4.6,https://www.cars.com/vehicledetail/8e68e8d0-9a38-4386-9fe6-368c384ad390/
+2023 Buick Enclave Avenir,"$44,000","30,024 mi.",Zeigler Chevrolet,"Schaumburg, IL (25 mi.)",4.4,https://www.cars.com/vehicledetail/91bf344f-46bb-424f-a0a4-2eb38179ae38/
+2022 Chevrolet Silverado 1500 RST,"$44,477","27,353 mi.",Sunrise Chevrolet of Glendale Heights,"Glendale Heights, IL (23 mi.)",4.9,https://www.cars.com/vehicledetail/2dd83c42-9649-4b51-b446-407b1cb1bc49/
+2022 Chevrolet Silverado 1500 LT,"$29,483","63,177 mi.",Tasca Chevrolet Wheeling,"Wheeling, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/59182b33-5a5a-472c-ace9-2b7f54964031/
+2016 Chevrolet Silverado 1500 LT,"$23,588","72,955 mi.",Jennings Chevy / VW,"Glenview, IL (15 mi.)",4.7,https://www.cars.com/vehicledetail/668dd681-e993-4888-ab4b-a5a0d6c5a301/
+2021 RAM 1500 Big Horn/Lone Star,"$33,494","81,884 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/883ec4e9-929b-4265-b7e3-c806daee43e6/
+2024 Mazda CX-5 Carbon Edition,"$27,472","6,076 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/cbc8f045-5af4-4a20-9e5c-aad71b0739e9/
+2014 Chrysler 300 S,"$11,525","109,823 mi.",Midway Dodge,"Chicago, IL (7 mi.)",4.6,https://www.cars.com/vehicledetail/17ecf582-2577-4ea3-ba3b-a38703e6655d/
+2022 Mercedes-Benz EQS 580,"$55,998","22,232 mi.",CarMax Virginia Beach,N/A,0,https://www.cars.com/vehicledetail/7159432d-6af0-4cca-b602-8d66805c90fe/
+2023 Mercedes-Benz GLE 350,"$56,998","10,221 mi.",CarMax Savannah,N/A,0,https://www.cars.com/vehicledetail/0cac5279-cba4-4456-91d2-33c9db039e84/
+2022 Hyundai SANTA FE Limited,"$32,200","21,031 mi.",Wilkins Hyundai,"Elmhurst, IL (16 mi.)",4.6,https://www.cars.com/vehicledetail/c0196eed-573d-4aaf-8ed1-bff27cabd663/
+2022 Buick Enclave AWD Premium,"$25,305","73,902 mi.",Zeigler Cadillac of Lincolnwood,"Lincolnwood, IL (11 mi.)",4.4,https://www.cars.com/vehicledetail/14070a1a-faf0-4898-83a8-2585ffecd46d/
+2023 Kia Telluride EX,"$38,830","21,586 mi.",Phillips Chevrolet,"Frankfort, IL (29 mi.)",5.0,https://www.cars.com/vehicledetail/18ab29c9-aea1-429d-b11d-3ab272e8276b/
+2023 Chevrolet Silverado 1500 RST,"$42,460","48,849 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/eb323897-39a1-4542-9669-c745ec5c9d1c/
+2023 Dodge Charger GT,"$37,400","11,313 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/d0bf07e0-3e34-4229-84a9-c927f23f7238/
+2020 Honda Accord LX 1.5T,"$20,000","57,773 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/ffba4b8c-5871-41a6-8670-6f6fda6b1134/
+2024 Alfa Romeo Stelvio Quadrifoglio,"$72,494","11,101 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/0f588080-268c-4732-8062-42c4b6c50221/
+2022 Chevrolet Silverado 1500 Custom,"$34,988","32,311 mi.",Dick Wickstrom Chevrolet,"Roselle, IL (24 mi.)",4.8,https://www.cars.com/vehicledetail/b25a8268-0725-4af6-a72a-3029eb1ef860/
+2021 Buick Enclave AWD Avenir,"$32,997","32,941 mi.",Bill Kay Buick GMC,"Downers Grove, IL (22 mi.)",4.5,https://www.cars.com/vehicledetail/8403fd87-27d9-4eba-86f1-3ddd390844dd/
+2021 Chevrolet Silverado 1500 RST,"$34,808","70,407 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/3260190e-f482-4f89-ae25-a2fbe1360341/
+2019 Mazda CX-5 Grand Touring,"$23,253","44,489 mi.",Fletcher Jones Audi,"Chicago, IL (3 mi.)",4.2,https://www.cars.com/vehicledetail/8bb788c7-45f2-4d4e-b327-d44ec1cc1f59/
+2021 Mazda CX-5 Carbon Edition Turbo,"$21,999","70,787 mi.",Honda on Grand,"Elmhurst, IL (17 mi.)",4.7,https://www.cars.com/vehicledetail/05e62ffe-858b-4a11-ac3b-a843dbc34a02/
+2018 Chevrolet Silverado 1500 1LT,"$24,475","78,983 mi.",Arlington Heights Buick GMC,"Arlington heights, IL (26 mi.)",4.9,https://www.cars.com/vehicledetail/88060c15-114c-4bf6-867f-f3a7a401b4e1/
+2022 Chrysler 300 S,"$23,350","56,139 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/6ae4d710-8711-4727-a91d-cac4e8d67af3/
+2022 Mazda CX-5 2.5 S Premium Plus Package,"$27,995","35,204 mi.",Sutton Ford,"Matteson, IL (27 mi.)",4.4,https://www.cars.com/vehicledetail/21abbc47-6c27-4f9c-9897-e9e2689e2671/
+2021 GMC Sierra 1500 AT4,"$44,999","42,918 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/f4e17a4c-3eaf-47d6-a150-3b6db6b790b1/
+2022 Mazda CX-5 2.5 S Premium,"$25,699","37,934 mi.",BMW of Orland Park,"Orland Park, IL (24 mi.)",4.6,https://www.cars.com/vehicledetail/e716b8e4-8463-42bc-981d-811aaa4eecf0/
+2022 INFINITI QX80 Luxe,"$38,798","57,274 mi.",Countryside Nissan,"Countryside, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/972f4bb0-912d-4f8e-8087-d10cf04347f9/
+2021 GMC Yukon SLT,"$50,746","51,136 mi.",Zeigler Buick GMC of Lincolnwood,"Lincolnwood, IL (10 mi.)",4.5,https://www.cars.com/vehicledetail/be5e87e1-5141-4735-9526-06bcdd45e57a/
+2023 Jeep Grand Cherokee Limited X,"$32,995","42,768 mi.",INFINITI of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/84051f4e-d47f-43bc-b30f-411fce34e3ec/
+2018 Ford F-150 XLT,"$27,998","71,907 mi.",CarMax Salisbury,N/A,0,https://www.cars.com/vehicledetail/e89a87de-0b23-46b5-87ca-115ab9f13064/
+2014 Toyota Avalon Limited,"$24,998","22,860 mi.",CarMax Maplewood,N/A,0,https://www.cars.com/vehicledetail/ba3a27b2-ffc1-438d-a086-2b761813f0f0/
+2023 Toyota Camry LE,"$22,798","54,348 mi.",Victory Toyota of Midtown,"Chicago, IL (7 mi.)",4.6,https://www.cars.com/vehicledetail/0bc95139-e88c-49aa-a8b1-cb737e13c07d/
+2018 RAM 1500 Rebel,"$24,000","107,161 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/c0bc6638-43e9-46e0-8d2a-4c461b41b773/
+2017 Jeep Grand Cherokee Limited,"$16,995","101,470 mi.",Thomas Dodge Chrysler Jeep RAM of Highland,"Highland, IN (26 mi.)",4.7,https://www.cars.com/vehicledetail/5bf14bb0-9d00-404f-9aaa-0b9fa0be4760/
+2020 Mazda CX-5 Touring,"$18,397","58,796 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/c24712a2-f95e-465e-baef-37909ec598ae/
+2023 Mazda CX-5 2.5 S,"$21,200","45,570 mi.",Team Toyota,"Schererville, IN (27 mi.)",4.8,https://www.cars.com/vehicledetail/8038cd2b-1144-4230-8980-92989210c3a4/
+2024 Jeep Grand Cherokee Limited X,"$37,881","21,542 mi.",South Oak Dodge Chrysler Jeep RAM,"Matteson, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/6ab8fb5f-c305-448a-a299-abecf0cd3d97/
+2015 Jeep Grand Cherokee Limited,"$11,995","138,121 mi.",The Autobarn Mazda of Evanston,"Evanston, IL (11 mi.)",4.8,https://www.cars.com/vehicledetail/7da50a34-8b61-45f9-83d8-89e5d5893df1/
+2021 Mazda CX-5 Signature,"$24,977","57,747 mi.",Woodfield Lexus,"Schaumburg, IL (26 mi.)",4.8,https://www.cars.com/vehicledetail/89672dbd-17b3-4a6e-b960-ca4ca5a857cc/
+2016 Mazda CX-5 Sport,"$13,495","92,416 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/e76b9611-67c8-428f-a47f-41e40fedd33c/
+2015 Jeep Grand Cherokee Overland,"$15,529","109,268 mi.",Land Rover Schaumburg,"Schaumburg, IL (27 mi.)",4.7,https://www.cars.com/vehicledetail/ddb66d32-4387-4ae9-8204-8c3605d9ec00/
+2022 Jeep Grand Cherokee Summit,"$35,750","80,720 mi.",Woody Buick GMC Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/ea93bd3a-078b-486b-a4da-254d60d4f203/
+2023 Mazda CX-5 2.5T,"$31,977","20,123 mi.",Volkswagen of Orland Park,"Orland Park, IL (22 mi.)",4.1,https://www.cars.com/vehicledetail/09d00dc2-254b-46f0-b88f-df415b76310c/
+2019 Jeep Grand Cherokee Altitude,"$24,697","49,861 mi.",Jaguar Land Rover Hinsdale,"Hinsdale, IL (16 mi.)",4.7,https://www.cars.com/vehicledetail/455c33eb-8bc5-492c-82d3-92f26e2ffeff/
+2023 Hyundai SANTA FE SEL 2.4,"$24,972","37,486 mi.",AutoNation Hyundai O'Hare,"Des Plaines, IL (16 mi.)",4.5,https://www.cars.com/vehicledetail/296fc1ee-9d91-4a0d-9db9-033dc938797e/
+2023 Mazda CX-5 2.5 S Premium Plus,"$26,300","40,968 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/1b1326a3-2534-45d3-8b1e-9593aac22291/
+2020 INFINITI QX60 Pure,"$19,328","67,452 mi.",Webb Chevy,"Oak Lawn, IL (13 mi.)",4.7,https://www.cars.com/vehicledetail/e7304c5e-8af3-4a23-a548-c48761fee15d/
+2023 Nissan Rogue S,"$17,797","83,196 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/be1770d2-8d10-49bb-a8a4-e011958c8e28/
+2020 Chevrolet Silverado 1500 LT Trail Boss,"$37,000","77,008 mi.",Zeigler Chevrolet,"Schaumburg, IL (25 mi.)",4.4,https://www.cars.com/vehicledetail/4f73fde6-1234-4c58-a987-36f36ac6a921/
+2019 Jeep Grand Cherokee Limited X,"$21,611","57,416 mi.",Lexus Of Orland,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/861e9cec-3e25-4d77-841d-bfc31b2aaefa/
+2025 BMW X3 30 xDrive,"$47,691","10,139 mi.",Laurel BMW of Westmont,"Westmont, IL (18 mi.)",4.6,https://www.cars.com/vehicledetail/9c7749fe-f75b-48a2-99be-9020b3ba111a/
+2021 INFINITI QX50 Luxe,"$25,998","46,711 mi.",CarMax Augusta,N/A,0,https://www.cars.com/vehicledetail/b1c9afa5-155e-4e48-aed4-2c90424b60d9/
+2024 Toyota Highlander Hybrid XLE,"$50,998","7,283 mi.",CarMax Live Oak,N/A,0,https://www.cars.com/vehicledetail/19535b9b-8a3c-4dfb-980c-f42080a76a48/
+2022 Jeep Grand Cherokee Limited,"$31,995","47,589 mi.",Sutton Ford,"Matteson, IL (27 mi.)",4.4,https://www.cars.com/vehicledetail/fa622952-ddb8-4159-967c-c3bbf3a91dc6/
+2023 Volvo XC60 B5 Ultimate Bright Theme,"$42,999","14,947 mi.",Mercedes-Benz of Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.8,https://www.cars.com/vehicledetail/e591ee80-3c9d-4399-a17d-abbaf65d241f/
+2017 Jeep Grand Cherokee Limited,"$18,591","74,843 mi.",McGrath Acura of Morton Grove,"Morton Grove, IL (15 mi.)",4.5,https://www.cars.com/vehicledetail/08661b6d-4b17-4af9-8a2d-d46e4989947b/
+2020 Lincoln Aviator Reserve AWD,"$35,698","52,228 mi.",The Autobarn Volvo Cars of Oak Park,"Oak Park, IL (9 mi.)",4.8,https://www.cars.com/vehicledetail/18c50cc7-1220-40b9-8e75-043897897941/
+2023 Subaru Outback Limited,"$30,125","27,569 mi.",Toyota of Naperville,"Naperville, IL (30 mi.)",4.9,https://www.cars.com/vehicledetail/db153a2b-ef99-4972-9f00-7ad7b67565c7/
+2020 Jeep Grand Cherokee Trailhawk,"$22,882","73,281 mi.",Zeigler Buick GMC of Lincolnwood,"Lincolnwood, IL (10 mi.)",4.5,https://www.cars.com/vehicledetail/0df996d9-58ba-419d-8dd7-b2ac575a628c/
+2022 Volkswagen Tiguan 2.0T S 4MOTION,"$18,295","57,678 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/496d6c4e-77e3-436b-a819-2f22e1a38119/
+2020 Jeep Grand Cherokee Laredo,"$23,500","22,706 mi.",Advantage Chevrolet of Bridgeview,"Bridgeview, IL (13 mi.)",4.5,https://www.cars.com/vehicledetail/585faf49-4354-4b3d-a249-c64268d01383/
+2021 Lincoln Aviator Reserve AWD,"$33,995","59,884 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/4865c4db-3e36-43f5-97a1-74b9f19b9be6/
+2025 INFINITI QX60 Pure,"$42,995","4,139 mi.",INFINITI of Hoffman Estates,"Hoffman Estates, IL (27 mi.)",4.7,https://www.cars.com/vehicledetail/748f73d2-6b71-4bc9-bbc9-cae2ae70ebb9/
+2024 RAM 1500 TRX,"$85,610","44,125 mi.",Murgado Ford of Chicago,"Chicago, IL (4 mi.)",4.4,https://www.cars.com/vehicledetail/6492da6a-3f9f-49d8-9ac6-16566a9e4cd0/
+2024 Land Rover Range Rover Sport SE,"$89,997","5,215 mi.",Jaguar Land Rover Hinsdale,"Hinsdale, IL (16 mi.)",4.7,https://www.cars.com/vehicledetail/17ee230e-dfb7-416c-94c0-97b6325d51cc/
+2022 Jeep Grand Cherokee Limited X,"$31,990","20,462 mi.",City Volkswagen of Chicago,"Chicago, IL (9 mi.)",5.0,https://www.cars.com/vehicledetail/61a3cd44-8121-4857-91cd-b7aaafe4202d/
+2021 RAM 1500 Big Horn/Lone Star,"$34,495","42,735 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/1ed5a525-d82a-4426-898a-e444e96d7eb0/
+2018 RAM 1500 Tradesman,"$12,949","130,306 mi.",Midway Dodge,"Chicago, IL (7 mi.)",4.6,https://www.cars.com/vehicledetail/a736a0ac-b994-486d-b4f0-cd230a14de1a/
+2024 Jeep Grand Cherokee Limited X,"$43,994","12,536 mi.",Marino Chrysler Jeep Dodge RAM,"Chicago, IL (8 mi.)",4.9,https://www.cars.com/vehicledetail/5033856d-0471-4f9f-b015-18d6d59c04d3/
+2020 RAM 1500 Big Horn,"$25,910","129,606 mi.",Patrick Hyundai of Schaumburg,"Schaumburg, IL (25 mi.)",4.1,https://www.cars.com/vehicledetail/55781c76-269c-4c66-a9bf-5b145262f006/
+2018 INFINITI QX60 Base,"$17,995","79,076 mi.",The Autobarn Volvo Cars of Oak Park,"Oak Park, IL (9 mi.)",4.8,https://www.cars.com/vehicledetail/8e9132d7-e031-4f7f-b92c-54c79912355f/
+2019 RAM 1500 Limited,"$25,675","152,102 mi.",Arlington Heights Buick GMC,"Arlington heights, IL (26 mi.)",4.9,https://www.cars.com/vehicledetail/00680e11-f80e-4268-82de-f115e8e28380/
+2022 Alfa Romeo Stelvio Ti,"$26,627","43,607 mi.",Advantage Chevrolet,"Hodgkins, IL (14 mi.)",4.7,https://www.cars.com/vehicledetail/b385eac3-8976-4978-aa94-05349ce986eb/
+2022 Volkswagen Taos SE,"$23,998","25,422 mi.",CarMax Merrillville,N/A,0,https://www.cars.com/vehicledetail/b27f025e-c44c-464d-b011-2fe51d0d8948/
+2023 Hyundai SANTA FE Calligraphy,"$30,998","35,237 mi.",CarMax Tulsa,N/A,0,https://www.cars.com/vehicledetail/44b22167-35a2-438f-8488-ce386ff12128/
+2020 GMC Yukon Denali,"$32,790","113,109 mi.",Joe Rizza Ford Lincoln,"Orland Park, IL (22 mi.)",4.4,https://www.cars.com/vehicledetail/90f5eef0-35bf-4e01-bb2a-95a9bda1a7bf/
+2019 GMC Yukon SLT,"$32,300","76,417 mi.",Team Toyota,"Schererville, IN (27 mi.)",4.8,https://www.cars.com/vehicledetail/4d0b7820-ad35-4f9e-96bc-95439cf7017b/
+2022 Buick Envision FWD Preferred,"$24,470","34,145 mi.",Al Piemonte Buick GMC,"Elmhurst, IL (17 mi.)",4.5,https://www.cars.com/vehicledetail/8aa72913-0c2b-4f13-8b68-e24aeddd4e67/
+2021 RAM 1500 Big Horn/Lone Star,"$27,533","30,682 mi.",Jack Phelan Chrysler Dodge Jeep RAM,"Countryside, IL (14 mi.)",4.8,https://www.cars.com/vehicledetail/d470dcc5-748f-4776-b6ee-7d4d41851b65/
+2023 RAM 1500 Sport,"$49,988","12,271 mi.",Golf Mill Ford,"Niles, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/56fa7867-aff4-4e79-b2ec-5a9232e7fe24/
+2022 RAM 1500 Big Horn/Lone Star,"$37,995","47,838 mi.",Napleton's Arlington Heights Chrysler Dodge Jeep RAM,"Arlington Heights, IL (26 mi.)",4.1,https://www.cars.com/vehicledetail/f15361cb-df5d-43f7-8cb0-af40b4c6fe57/
+2021 Chrysler 300 S,"$20,600","78,935 mi.",Napleton's River Oaks Chrysler Jeep Dodge RAM,"Lansing, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/4facee7f-8e60-420a-8f0e-176ae87044ae/
+2020 Tesla Model Y Long Range Dual Motor All-Wheel Drive,"$24,888","41,614 mi.",Old Orchard Nissan,"Skokie, IL (14 mi.)",4.5,https://www.cars.com/vehicledetail/9a1cdb75-0dec-4d91-821a-0304e9ae673f/
+2018 GMC Sierra 1500 SLT,"$28,975","88,628 mi.",Arlington Heights Buick GMC,"Arlington heights, IL (26 mi.)",4.9,https://www.cars.com/vehicledetail/23f84e76-c321-47f3-af30-c9afcf93e065/
+2021 Volkswagen Tiguan 2.0T SE R-Line Black,"$25,850","20,975 mi.",Hawk CDJR,"Forest Park, IL (10 mi.)",4.7,https://www.cars.com/vehicledetail/1d8a2359-b2a6-4fe2-9051-7e8de6dfa401/
+2019 GMC Yukon SLT,"$34,947","59,461 mi.",Zeigler Nissan of Orland Park,"Orland Park, IL (22 mi.)",4.8,https://www.cars.com/vehicledetail/787c4443-bd82-435c-8141-af1d3472b0f8/
+2021 Subaru Outback Premium,"$23,548","56,679 mi.",DuPage CDJR,"Glendale Heights, IL (23 mi.)",4.4,https://www.cars.com/vehicledetail/8d4c36e3-afbf-4964-abc5-6c1016a85c85/
+2020 Hyundai SANTA FE Limited 2.0T,"$23,907","52,022 mi.",Sherman Dodge Chrysler Jeep RAM,"Skokie, IL (12 mi.)",4.3,https://www.cars.com/vehicledetail/10163d87-bf63-4e4d-88ee-eb8e83e0a857/
+2024 INFINITI QX60 Luxe,"$46,490","15,261 mi.",INFINITI of Clarendon Hills,"Clarendon Hills, IL (18 mi.)",4.9,https://www.cars.com/vehicledetail/7f21fc35-e034-48c5-ab9b-fab9e7ba6e34/
+2022 Tesla Model Y Long Range Dual Motor All-Wheel Drive,"$30,977","12,480 mi.",Woodfield Lexus,"Schaumburg, IL (26 mi.)",4.8,https://www.cars.com/vehicledetail/7b4219db-fee3-4ce8-8ec7-869a02dfc353/
+2024 Mitsubishi Outlander SE Black Edition S-AWC,"$27,477","36,920 mi.",Sunrise Chevrolet of Glendale Heights,"Glendale Heights, IL (23 mi.)",4.9,https://www.cars.com/vehicledetail/d94218cf-9138-407f-b3d1-8f8436422260/
+2014 RAM 1500 Longhorn,"$14,500","177,209 mi.",Team Toyota,"Schererville, IN (27 mi.)",4.8,https://www.cars.com/vehicledetail/dbdf495b-df51-46ca-8b32-4f2b2301825d/
+2022 Hyundai SANTA FE Calligraphy,"$28,898","39,539 mi.",Napleton Downtown Chevrolet Buick GMC,"Chicago, IL (3 mi.)",4.4,https://www.cars.com/vehicledetail/69290b27-b066-4fd1-85b3-3809c04d5c51/
+2013 Nissan Altima 2.5 SL,"$10,310","85,912 mi.",Patrick Hyundai of Schaumburg,"Schaumburg, IL (25 mi.)",4.1,https://www.cars.com/vehicledetail/13c49034-a798-4bec-90e5-df859c1191c2/
+2023 Mitsubishi Outlander SE 2.5 2WD,"$22,398","55,734 mi.",INFINITI of Orland Park A Zeigler Auto Group Company,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/f22ee99c-f4ad-4f6e-95ee-f266a73c0b74/
+2017 Porsche Cayenne Platinum,"$32,998","52,815 mi.",CarMax Midlothian,N/A,0,https://www.cars.com/vehicledetail/11a457bd-d819-450a-b6dd-6a6c09580d40/
+2024 Lexus RX 350h Luxury,"$65,998","8,104 mi.",CarMax Colorado Springs,N/A,0,https://www.cars.com/vehicledetail/4e097e7d-41c5-4e88-a7bd-1ca69761b1d1/
+2025 Aston Martin Vantage Carbon,"$255,000","5,133 mi.",Napleton Aston Martin Maserati,"Downers Grove, IL (19 mi.)",4.8,https://www.cars.com/vehicledetail/38760862-fc38-45a5-bfc6-6c6e010d2bf7/
+2022 Lexus ES 350 Base,"$39,988","10,934 mi.",McGrath Lexus Chicago,"Chicago, IL (2 mi.)",4.8,https://www.cars.com/vehicledetail/b1f48e40-33dd-4c6b-995c-1672d1e89c21/
+2021 Land Rover Range Rover Westminster,"$51,997","37,739 mi.",Jaguar Land Rover Hinsdale,"Hinsdale, IL (16 mi.)",4.7,https://www.cars.com/vehicledetail/31f3b852-2aff-4f8d-8113-b6ddf6cce1f4/
+2022 Mitsubishi Outlander ES 2.5 S-AWC,"$20,885","73,596 mi.",Countryside Mitsubishi,"Countryside, IL (14 mi.)",4.9,https://www.cars.com/vehicledetail/2e971344-3fdd-47a7-95cc-a0cdd2b8fb69/
+2015 Jeep Grand Cherokee Laredo,"$13,949","83,918 mi.",Midway Dodge,"Chicago, IL (7 mi.)",4.6,https://www.cars.com/vehicledetail/68a25147-feb9-4d80-ad5e-be6b75bdc0af/
+2016 Nissan Rogue SL,"$15,845","59,976 mi.",INFINITI of Clarendon Hills,"Clarendon Hills, IL (18 mi.)",4.9,https://www.cars.com/vehicledetail/61756463-e2b6-4956-a825-b770335f50ad/
+2021 Lexus RX 350 F SPORT Handling,"$41,395","40,316 mi.",AutoNation Hyundai O'Hare,"Des Plaines, IL (16 mi.)",4.5,https://www.cars.com/vehicledetail/7e097ef5-129a-4eb0-a946-48d861f0a7f6/
+2022 Volkswagen Atlas 3.6L SE w/Technology,"$32,177","22,050 mi.",Castle Chrysler Dodge Jeep Ram of Naperville,"Naperville, IL (30 mi.)",4.2,https://www.cars.com/vehicledetail/acc71f43-56ee-4c0b-9bf6-00d05f868de6/
+2023 Hyundai SANTA FE Calligraphy,"$28,750","56,958 mi.",Garber Chevrolet Highland,"Highland, IN (26 mi.)",4.1,https://www.cars.com/vehicledetail/e9acb8e0-64e7-42ba-994a-885df95c1f85/
+2022 Hyundai SANTA FE XRT,"$24,877","27,433 mi.",Sunrise Chevrolet of Glendale Heights,"Glendale Heights, IL (23 mi.)",4.9,https://www.cars.com/vehicledetail/7e6b9132-a108-47ea-8a79-f4e403add176/
+2020 Hyundai SANTA FE Limited 2.0T,"$18,500","88,006 mi.",Phillips Chevrolet of Lansing,"Lansing, IL (22 mi.)",5.0,https://www.cars.com/vehicledetail/67e62728-5604-41f6-ac97-8bcc091ac079/
+2023 Maserati Levante Modena S,"$99,995","1,123 mi.",Zeigler Chrysler Dodge Jeep Ram of Schaumburg,"Schaumburg, IL (26 mi.)",4.4,https://www.cars.com/vehicledetail/b13813b9-89cb-4c41-9005-ac29b2f545bc/
+2022 Hyundai SANTA FE SEL 2.4,"$24,000","24,196 mi.",Ed Napleton Acura Kia,"Elmhurst, IL (18 mi.)",4.2,https://www.cars.com/vehicledetail/db5dbb2a-75f4-4afb-b177-61663e42498e/
+2022 Hyundai SANTA FE SEL 2.4,"$22,763","50,544 mi.",Berman Nissan of Chicago,"Chicago, IL (6 mi.)",4.5,https://www.cars.com/vehicledetail/f3fda422-597e-4bdb-a848-74969d0985da/
+2023 GMC Yukon Denali,"$58,375","59,131 mi.",Arnie Bauer Buick GMC of Matteson,"Matteson, IL (27 mi.)",4.3,https://www.cars.com/vehicledetail/5908aece-123d-4164-bb4d-7bd7367f6d91/
+2019 Hyundai SANTA FE SEL 2.4,"$16,590","80,636 mi.",Joe Rizza Acura,"Orland Park, IL (22 mi.)",4.6,https://www.cars.com/vehicledetail/e5cc4ac4-1177-41cc-995c-152288493367/
+2021 Tesla Model Y Long Range Dual Motor All-Wheel Drive,"$26,997","30,565 mi.",Jaguar Land Rover Hinsdale,"Hinsdale, IL (16 mi.)",4.7,https://www.cars.com/vehicledetail/9710a930-6811-4a8f-87df-19613460c811/
+2021 RAM 1500 Limited,"$36,888","81,919 mi.",McGrath Elmhurst Toyota,"Elmhurst, IL (17 mi.)",4.2,https://www.cars.com/vehicledetail/7ae8706e-5e0c-44d4-9354-0880fac0e1bc/
+2020 Hyundai SANTA FE SEL 2.4,"$17,500","86,983 mi.",Ed Napleton Honda,"Oak Lawn, IL (13 mi.)",4.9,https://www.cars.com/vehicledetail/00f0876f-1f98-40f8-b839-d633e04b94c7/
+2022 Hyundai SANTA FE SEL 2.4,"$23,497","43,191 mi.",Napleton River Oaks Hyundai Kia,"Calumet City, IL (20 mi.)",4.7,https://www.cars.com/vehicledetail/536cdf0a-7776-4a9d-bdb7-2d03e25f19dc/
+2023 Hyundai ELANTRA HEV Limited,"$27,998","1,093 mi.",CarMax Jackson (MS),N/A,0,https://www.cars.com/vehicledetail/58cb07d2-6b58-4ade-bc8e-2172c791c82c/
+2024 Toyota Tundra Hybrid 1794 Limited Edition,"$63,998","11,530 mi.",CarMax San Antonio,N/A,0,https://www.cars.com/vehicledetail/a4f67d60-8a81-473c-8739-b38767f9bcfd/

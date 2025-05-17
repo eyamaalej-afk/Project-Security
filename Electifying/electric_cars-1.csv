@@ -1,0 +1,193 @@
+name,score,price,range ,url,battery_size,max_dc_charge,miles_per_kwh
+Smart #5 Review,7,"£50,000",366mi,https://www.electrifying.com/reviews/smart-car-reviews/5/,74 - 94 kWh,400 kW,3.5 (est)
+Jeep Compass Review,6,"£45,000",404mi,https://www.electrifying.com/reviews/jeep-reviews/compass/,73-98kWh,160 kW,4.4
+Renault 4 E-Tech Electric Review,8,"£27,000",247mi,https://www.electrifying.com/reviews/renault-4/,52kWh,100 kW,4.77
+Citroen e-C5 Aircross Review,7,"£40,000",422mi,https://www.electrifying.com/reviews/citroen-reviews/e-c5-aircross/,73-98kWh,160 kW,4.4
+Abarth 600e Review,8,"£36,975",208mi,https://www.electrifying.com/reviews/abarth/600e/,51kWh,N/A,4.0
+Range Rover Electric Review,8,"£140,000",310mi,https://www.electrifying.com/reviews/land-rover-reviews/range-rover-electric/,117 kWh,350kW,N/A
+Ford Puma Gen-E Review,8,"£29,995",233mi,https://www.electrifying.com/reviews/ford-reviews/puma-gen-e/,43kWh,100 kW,5.0
+New 2025 Tesla Model Y Review,9,"£44,990",387mi,https://www.electrifying.com/reviews/tesla-reviews/model-y-2025/,75kWh,250 kW,4.6
+Ford e-Transit Courier Review,8,"£34,490",186mi,https://www.electrifying.com/reviews/ford-reviews/e-transit-courier/,43 kWh,100 kW,N/A
+Kia PV5 Review,9,"£30,000",250mi,https://www.electrifying.com/reviews/kia-reviews/pv5/,43 - 71 kWh,150kW (est),N/A
+Skoda Enyaq 2025 Review,9,"£39,000",365mi,https://www.electrifying.com/reviews/skoda-reviews/new-enyaq/,59 - 77 kWh,175 kW,4.6
+MGS5 EV Review,8,"£28,495",298mi,https://www.electrifying.com/reviews/mg-reviews/mgs5-ev/,49 - 64 kWh,139 kW,4.5
+Volvo ES90 Review,9,"£70,000",437mi,https://www.electrifying.com/reviews/volvo-reviews/es90/,88 - 102 kWh,350 kW,4.4
+Maserati Grecale Folgore Review,7,"£99,165",310mi,https://www.electrifying.com/reviews/maserati/grecale-folgore/,Battery sizes: 97 kWh,150kW,N/A
+Mercedes CLA Review,9,"£45,000",465mi,https://www.electrifying.com/reviews/mercedes-reviews/cla/,Battery sizes: 58 - 85 kWh,320kW,N/A
+New Kia EV4 review,8,"£32,000",391mi,https://www.electrifying.com/reviews/kia-reviews/ev4/,Battery sizes: 58kWh - 81.4kWh,102 - 135kW,N/A
+Citroen e-Relay Review,7,"£49,485",261mi,https://www.electrifying.com/reviews/citroen-reviews/e-relay/,110 kWh,150 kW,N/A
+Mercedes-Benz eVito Review,7,"£48,530",162mi,https://www.electrifying.com/reviews/mercedes-reviews/evito/,66kWh,80kW,N/A
+Volkswagen Transporter Review,8,"£42,800",201mi,https://www.electrifying.com/reviews/volkswagen-reviews/transporter/,65 kWh,125kW,N/A
+BYD Atto 2 Review,8,"£30,000",260mi,https://www.electrifying.com/reviews/byd/atto-2//,50 kWh,65 kW,N/A
+Zeekr 7X Review,8,"£44,090",382mi,https://www.electrifying.com/reviews/zeekr/7x/,75 - 100 kWh,360 kW,N/A
+Mercedes-Benz eSprinter Review,8,"£58,740",271mi,https://www.electrifying.com/reviews/mercedes-reviews/esprinter-1/,81-113 kWh,115kW,N/A
+Kia EV3 Review,10,"£32,995",375mi,https://www.electrifying.com/reviews/kia-reviews/ev3/,55 - 78 kWh,N/A,N/A
+Mazda 6e Review,7,"£42,000",345mi,https://www.electrifying.com/reviews/mazda-reviews/6e/,69 - 80kWh,200kW,4.5
+DS No 8 Review,8,"£60,000",469mi,https://www.electrifying.com/reviews/ds-reviews/no-8/,73 - 98kWh,160kW,3.9
+Skoda Elroq Review,9,"£31,500",360mi,https://www.electrifying.com/reviews/skoda-reviews/elroq/,52 / 59 / 77kWh,175 kW,3.8. - 4.1
+Audi S e-tron GT Review 2025,9,"£108,680",356mi,https://www.electrifying.com/reviews/audi/e-tron-gt/,97kWh,320 kW,N/A
+Hyundai IONIQ 9 Review,8,"£65,000",385mi,https://www.electrifying.com/reviews/hyundai-reviews/ioniq-9/,110.3kWh,210 kW,3.5 (est)
+BYD Sealion 7 Review,7,"£46,990",312mi,https://www.electrifying.com/reviews/byd/sealion-7/,83-91kWh,150 - 230 kW,N/A
+Alpine A290 Review,9,"£33,500",236mi,https://www.electrifying.com/reviews/alpine/a290/,52kWh,100kW,N/A
+Suzuki e Vitara Review,6,"£29,000",249mi,https://www.electrifying.com/reviews/suzuki/e-vitara/,49-61 kWh,150 kW,N/A
+MINI Aceman Review,8,"£31,800",252mi,https://www.electrifying.com/reviews/mini-reviews/aceman/,N/A,95 kW,4.4
+Citroen e-Dispatch Review,8,"£41,210",217mi,https://www.electrifying.com/reviews/citroen-reviews/e-dispatch/,75 kWh,100 kW,N/A
+Citroen e-C4 Review 2025,8,"£26,295",261mi,https://www.electrifying.com/reviews/citroen-reviews/citroen-e-c4/,50-54kWh,100 kW,4.82 - 5.22
+Vauxhall Grandland Review,6,"£37,435",325mi,https://www.electrifying.com/reviews/vauxhall/grandland/,73- 98 kWh,N/A,N/A
+Leapmotor C10 Review,6,"£36,500",261mi,https://www.electrifying.com/reviews/leapmotor/c10/,69.9 kWh,84kW,N/A
+Renault 5 E-Tech Review,9,"£22,995",255mi,https://www.electrifying.com/reviews/renault-reviews/r5-e-tech/,40-52kWh,100 kW,4.77
+Leapmotor T03 Review,8,"£15,995",165mi,https://www.electrifying.com/reviews/leapmotor/t03/,37.3 kWh,45kW,N/A
+Audi Q6 e-tron Review,7,"£59,975",392mi,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron-2/,94.9kWh,270kW,3.9
+B-On Pelkan Review,6,"£30,000",173mi,https://www.electrifying.com/reviews/b-on/Pelkan/,43-54 kWh,100kW,N/A
+Kia EV6 Review,9,"£45,575",361mi,https://www.electrifying.com/reviews/kia/ev6/,84Wh,260 kW,4.24
+Volkswagen ID.7 Tourer Review,8,"£52,240",424mi,https://www.electrifying.com/reviews/volkswagen-reviews/id-7-tourer/,77-86 kWh,175 - 200kW,N/A
+Ford e-Transit Custom Review,8,"£43,380",209mi,https://www.electrifying.com/reviews/ford-reviews/e-transit-custom/,64 kWh,125kW,N/A
+Mercedes-Benz eCitan Review,7,"£37,200",186mi,https://www.electrifying.com/reviews/mercedes-reviews/ecitan/,45 kWh,80kW,N/A
+Maxus eDeliver 3 Review,7,"£34,000",151mi,https://www.electrifying.com/reviews/maxus/edeliver-3/,35-50 kWh,50kW,N/A
+Nissan Townstar EV Review,7,"£33,995",186mi,https://www.electrifying.com/reviews/nissan-reviews/townstar/,45 kWh,80kW,N/A
+Maxus eDeliver 9 Review,7,"£66,000",219mi,https://www.electrifying.com/reviews/ford-reviews/e-transit-1/,51.5 - 88.55 kWh,80kW,N/A
+Volvo EX90 Review,8,"£96,225",374mi,https://www.electrifying.com/reviews/volvo-reviews/ex90/,107kWh,250 kW,2.9
+Audi Q4 e-tron Review,7,"£51,965",342mi,https://www.electrifying.com/reviews/audi/q4-e-tron/,77kWh,175 kW,4.1
+Dacia Spring Review,7,"£14,995",137mi,https://www.electrifying.com/reviews/dacia/spring/,27kWh,30 kW,5.22
+Ford Capri Review,7,"£48,075",389mi,https://www.electrifying.com/reviews/ford-reviews/capri/,52-79kWh,185 kW,4.1
+Polestar 4 Review,7,"£59,990",379mi,https://www.electrifying.com/reviews/polestar-reviews/4/,94 kWh,N/A,N/A
+Peugeot E-5008 Review,9,"£48,000",311mi,https://www.electrifying.com/reviews/peugeot-reviews/e-5008/,73 - 98kWh,160kW,3.9
+Hyundai INSTER Review,9,"£23,495",229mi,https://www.electrifying.com/reviews/hyundai-reviews/inster/,42 - 49kWh,85 kW,4.3 (est)
+Citroen e-C3 Aircross Review,8,"£22,990",188mi,https://www.electrifying.com/long-term-reviews/citroen-reviews/e-c3-aircross/,44 - 51kWh,100 kW,4.8
+Ford Explorer Review,8,"£45,875",374mi,https://www.electrifying.com/reviews/ford-reviews/explorer/,52-79kWh,185 kW,4.1
+Polestar 3 Review,8,"£75,900",393mi,https://www.electrifying.com/reviews/polestar/3/,107kWh,250 kW,N/A
+Omoda E5 Review,6,"£33,055",257mi,https://www.electrifying.com/reviews/omoda/5/,61kWh,80 kW,4.1
+Ora Ballet Cat Review,4,"£18,000",311mi,https://www.electrifying.com/long-term-reviews/ora/ballet-cat/,N/A,6.6 kW,5.1
+Ora Funky Cat / 03 Review,6,"£31,995",260mi,https://www.electrifying.com/long-term-reviews/ora/funky-cat/o3/,N/A,64 kW,3.6 - 4.3
+Peugeot E-3008 Review,5,"£45,960",435mi,https://www.electrifying.com/reviews/peugeot-reviews/e-3008/,73-98kWh,160 kW,4.4
+Cupra Born VZ Review,9,"£46,000",335mi,https://www.electrifying.com/reviews/cupra-reviews/born/,79kWh,185kW,4.2
+MG Cyberster Review,7,"£54,995",316mi,https://www.electrifying.com/reviews/mg-reviews/cyberster/,N/A,150 kW,4.0
+Jeep Wagoneer S Review,6,"£65,000",300mi,https://www.electrifying.com/reviews/jeep-reviews/wagoneer-s/,100kWh,200kW (est),2.9 (est)
+Cadillac OPTIQ Review,7,"£46,000",300mi,https://www.electrifying.com/reviews/cadillac/optiq/,85kWh,250kW (est),3.5 (est)
+BMW i5 Touring Review,8,"£69,945",342mi,https://www.electrifying.com/reviews/bmw/i5touring/,81.2 kWh,205kW,N/A
+Citroen e-C3 Review,9,"£21,990",199mi,https://www.electrifying.com/reviews/citroen-reviews/e-c3/,44kWh,100 kW,4.52
+Cupra Tavascan Review,7,"£47,300",355mi,https://www.electrifying.com/reviews/cupra-reviews/tavascan/,77kWh,135kW,4.4
+MINI Cooper Electric Review,8,"£26,895",249mi,https://www.electrifying.com/reviews/mini-reviews/electric/,N/A,95 kW,4.4
+Tesla Cybertruck Review,6,"£80,000",340mi,https://www.electrifying.com/reviews/tesla-reviews/cybertruck/,123 kWh,N/A,N/A
+Geely Panda Review,7,"£5,500",124mi,https://www.electrifying.com/reviews/geely/panda/,17 kWh,22 kW,7.2
+Porsche Macan Electric Review,9,"£68,500",399mi,https://www.electrifying.com/reviews/porsche-reviews/macan-electric/,95kWh,270 kW,4.3
+Mercedes G580 with EQ Technology Review,7,"£110,000",260mi,https://www.electrifying.com/reviews/mercedes-reviews/g580-with-eq-technology/,118 kWh (est),N/A,N/A
+Volvo EX30 Review,7,"£32,850",296mi,https://www.electrifying.com/reviews/volvo-reviews/ex30/,49-64 kWh,153 kW,4.3
+BMW Vision Neue Klasse 2024 Review,8,"£60,000",500mi,https://www.electrifying.com/reviews/bmw-reviews/neue-klasse/,90kWh (est),N/A,N/A
+MINI Countryman Review,8,"£42,080",286mi,https://www.electrifying.com/reviews/mini-reviews/countryman-electric/,N/A,130 kW,4.4
+Kia EV9 Air Review,9,"£65,025",349mi,https://www.electrifying.com/reviews/kia-reviews/ev9-3/,99.8kWh,210 kW,3.7
+BMW iX2 Review,6,"£51,615",283mi,https://www.electrifying.com/reviews/bmw-reviews/ix2/,64.8kwh,N/A,N/A
+Porsche Taycan 2024 Review,10,"£86,500",421mi,https://www.electrifying.com/reviews/porsche-reviews/new-taycan-2024/,82-97kWh,320 kW,3.8
+Skoda Enyaq (<2024) Review,9,"£36,970",348mi,https://www.electrifying.com/reviews/skoda/enyaq-iv/,52-77kWh,175kW,4.32
+Kia EV9 Review,9,"£64,995",349mi,https://www.electrifying.com/reviews/kia-reviews/ev9/,99.8kWh,220 kW,3.7
+Nissan Ariya Review,7,"£39,645",330mi,https://www.electrifying.com/reviews/nissan/ariya/,63 - 87kWh,N/A,3.6
+Citroen Ami Review,9,"£7,695",46mi,https://www.electrifying.com/reviews/citroen-reviews/ami/,5.5 kWh,2 kW,8
+Renault Scenic E-Tech Review,9,"£36,495",379mi,https://www.electrifying.com/reviews/renault-reviews/scenic-e-tech/,60 - 87 kWh,N/A,N/A
+Porsche Taycan Sport Turismo Review,10,"£80,200",304mi,https://www.electrifying.com/reviews/porsche-reviews/taycan-sport-turismo/,93kWh,270 kW,3.27
+Abarth 500e Review,8,"£34,195",158mi,https://www.electrifying.com/reviews/abarth/500e/,42kWh,85kW,4.0
+Vauxhall Astra Sports Tourer Electric Review,7,"£35,280",256mi,https://www.electrifying.com/reviews/vauxhall-reviews/astra-sport-tourer/,51kWh,100 kW,4.4
+Smart #3 Review,8,"£33,950",283mi,https://www.electrifying.com/reviews/smart-reviews/3/,62 kWh,150 kW,4.6
+Volkswagen ID.7 Review,8,"£51,550",436mi,https://www.electrifying.com/reviews/volkswagen-reviews/id-7/,77 - 86kWh,175 - 200kW,N/A
+Genesis Electrified GV70 review,8,"£65,105",283mi,https://www.electrifying.com/reviews/genesis-reviews/gv70/,77kWh,225 kW,3.2 (tested)
+Nio EL6 review,8,"£57,000",329mi,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron-1/,100kWh,182 kW,3.3
+Audi Q6 e-tron prototype 2024 review,9,"£65,000",310mi,https://www.electrifying.com/reviews/audi-reviews/q6-e-tron/,100kWh,270 kW,3.75
+Peugeot E-308 Review,7,"£38,550",248mi,https://www.electrifying.com/reviews/peugeot-reviews/e308/,51kWh,100 kW,4.86
+Zeekr X Review,7,"£40,000",273mi,https://www.electrifying.com/reviews/zeekr/x/,62 kWh,150 kW,4.4
+Mazda MX-30 R-EV Review,6,"£31,250",53mi,https://www.electrifying.com/reviews/mazda-reviews/mx-30-r-ev/,17.8 kWh,36 kW,2.99
+Jeep Avenger Review,8,"£35,700",249mi,https://www.electrifying.com/reviews/jeep-reviews/avenger/,N/A,100 kW,4.9
+Fiat 600e Review,7,"£32,995",254mi,https://www.electrifying.com/reviews/fiat-reviews/600e/,Battery sizes: 51kWh,100 kW,4.92
+BYD Seal Review,8,"£45,695",354mi,https://www.electrifying.com/reviews/byd/seal/,82.5kWh,150kW,N/A
+Mercedes EQE SUV 53 AMG Review,7,"£133,860",278mi,https://www.electrifying.com/reviews/mercedes-reviews/eqe-suv-53-amg/,90.6 kWh,N/A,N/A
+Smart #1 Review,9,"£31,950",273mi,https://www.electrifying.com/reviews/smart/1/,49-62 kWh,130-150 kW,3.9 - 4.4
+Skoda Enyaq Coupe 2025 Review,8,"£46,200",365mi,https://www.electrifying.com/reviews/skoda-reviews/enyaq-coupe/,77kWh,175kW,4.0
+BYD Seal U Review,7,"£40,000",311mi,https://www.electrifying.com/reviews/byd/seal-1/,72-82kWh,115 -140kW,N/A
+Honda e:Ny1 Review,7,"£39,995",256mi,https://www.electrifying.com/reviews/honda-reviews/e-ny1/,61.8kWh,78 kW,4.13
+Hyundai IONIQ 5 N Review,9,"£65,000",278mi,https://www.electrifying.com/reviews/hyundai-reviews/ioniq-5-n/,84kWh,233 kW,3.0 (est)
+Volkswagen ID.5 Review,6,"£45,860",342mi,https://www.electrifying.com/reviews/volkswagen/id-5/,77kWh,175 kW,3.9
+MG4 XPower Review,7,"£36,495",239mi,https://www.electrifying.com/reviews/mg-reviews/mg4/,N/A,150 kW,3.8 (est)
+Peugeot E-2008 Review,8,"£32,700",249mi,https://www.electrifying.com/reviews/peugeot-reviews/peugeot-e2008-1/,54kWh,100 kW,5.0
+Rolls Royce Spectre Review,9,"£350,000",329mi,https://www.electrifying.com/reviews/rolls-royce/spectre/,102 kWh,195 kW,3.2
+Rivian R1S Review,8,"£56,000",321mi,https://www.electrifying.com/reviews/rivian-reviews/r1t/,135 kWh,N/A,N/A
+Vauxhall Astra Electric Review,7,"£34,130",258mi,https://www.electrifying.com/reviews/vauxhall-reviews/astra-electric/,51kWh,100 kW,5.08
+Volkswagen ID.Buzz LWB 7-Seater Preview,8,"£60,000",285mi,https://www.electrifying.com/reviews/volkswagen-reviews/id-buzz/,77 - 85kWh,170 - 200 kW,N/A
+Volvo XC40 Recharge 2024 Review,7,"£46,505",334mi,https://www.electrifying.com/reviews/volvo-reviews/xc40-recharge/,67-79kWh,200 kW,3.5-3.7
+BMW i5 eDrive review,8,"£74,105",357mi,https://www.electrifying.com/reviews/bmw-reviews/i5/,81kWh,205kW,4.4
+BYD Dolphin Review,8,"£26,195",265mi,https://www.electrifying.com/reviews/byd/dolphin/,44.9 - 60kWh,88 kW,3.8 - 4.7
+Lexus RZ450e Review,7,"£57,895",270mi,https://www.electrifying.com/reviews/lexus-reviews/rz450e/,64kWh,150 kW,4.2
+BYD Atto 3 Review,7,"£36,490",260mi,https://www.electrifying.com/reviews/byd/atto-3/,60.5 kWh,88 kW,N/A
+Subaru Solterra Review,6,"£49,995",288mi,https://www.electrifying.com/reviews/subaru/solterra/,71kWh (net),N/A,4.5 (est)
+Fisker Ocean Review,7,"£25,000",440mi,https://www.electrifying.com/reviews/fisker/ocean/,70 - 100kWh (est),N/A,4.4 (est)
+Citroen e-C4 X Review,8,"£31,610",260mi,https://www.electrifying.com/reviews/citroen-reviews/e-c4-x/,51- 54kWh,100 kW,4.4 - 5.2
+Audi Q8 e-tron Review,8,"£67,800",343mi,https://www.electrifying.com/reviews/audi-reviews/q8-e-tron/,89 - 106kWh,150 - 170 kW,3.16-3.24
+Ford E-Transit Review,8,"£49,545",196mi,https://www.electrifying.com/reviews/ford-reviews/e-transit/,68 kWh,115 kW,N/A
+Volkswagen ID.Buzz Cargo Review,8,"£40,450",254mi,https://www.electrifying.com/reviews//id-buzz-cargo/,77 kWh,170 kW,N/A
+BMW i7 Review,8,"£108,305",387mi,https://www.electrifying.com/reviews/bmw-reviews/i7/,102 kWh,195 kW,3.8
+Nio ET7 Review,7,"£80,000",315mi,https://www.electrifying.com/reviews/nio/et7/,100 kWh,N/A,N/A
+Hyundai IONIQ 6 Review,9,"£46,745",384mi,https://www.electrifying.com/reviews/hyundai/ioniq-6/,77.4kWh,232 kW,4.1 - 5.0
+BMW iX1 Review,8,"£46,205",293mi,https://www.electrifying.com/reviews/bmw/ix1/,64.7 kWh,130 kW,4.0
+Volta Zero Review,7,"£57,515",125mi,https://www.electrifying.com/reviews/volta/zero/,160-200 kWh,150 kW,N/A
+Volkswagen ID.Buzz Review,9,"£59,035",258mi,https://www.electrifying.com/reviews/volkswagen/id-buzz/,77 kWh,170 kW,N/A
+MG4 EV Review,9,"£26,995",323mi,https://www.electrifying.com/reviews/mg/4/,N/A,144 kW,4.4 (est)
+Hummer EV Review,6,"£130,000",310mi,https://www.electrifying.com/reviews/hummer/ev/,210 kWh,N/A,N/A
+MINI Electric Convertible Review,8,"£52,000",125mi,https://www.electrifying.com/reviews/mini/convertible-electric/,N/A,49 kW,5 (est)
+Kia Niro PHEV Review,8,"£33,525",40mi,https://www.electrifying.com/reviews/kia/niro-phev/,11.1 kWh,N/A,N/A
+Renault Master E-Tech Review,4,"£50,915",124mi,https://www.electrifying.com/reviews/renault/master-e-tech/,52kWh,N/A,N/A
+Renault Kangoo E-Tech Review,8,"£30,555",186mi,https://www.electrifying.com/reviews/renault/kangoo-e-tech/,45 kWh,80 kW,N/A
+Kia Niro EV Review,9,"£37,325",285mi,https://www.electrifying.com/reviews/kia/niro-ev/,64.8 kWh,72 kW,4.2
+Genesis Electrified G80 Review,8,"£65,805",323mi,https://www.electrifying.com/reviews/genesis/electrified-g80/,87.2 kWh,185 kW,3.7
+Genesis GV60 Review,7,"£53,905",289mi,https://www.electrifying.com/reviews/genesis/gv60/,77.4 kWh,N/A,3.9 (claimed)
+Ford F-150 Lightning Review,8,"£40,000",310mi,https://www.electrifying.com/reviews/ford/f-150-lightning/,98 - 130kWh,N/A,N/A
+Rivian R1T Review,8,"£56,000",314mi,https://www.electrifying.com/reviews/rivian/r1t/,135 kWh,N/A,N/A
+Mercedes EQT Review,8,"£32,000",186mi,https://www.electrifying.com/reviews/mercedes/eqt/,45 kWh,N/A,N/A
+BMW i7 Prototype Review,8,"£107,400",373mi,https://www.electrifying.com/reviews/bmw/i7/,102 kWh,195 kW,3.82
+Kia EV6 GT Review,9,"£58,295",263mi,https://www.electrifying.com/reviews/kia/ev6-gt/,77.4kWh,232 kW,3.35
+MG 5 EV 2023 Review,7,"£30,995",249mi,https://www.electrifying.com/reviews/mg/5-ev/,61 kWh,87 kW,4.0
+Lotus Eletre Review,9,"£89,500",373mi,https://www.electrifying.com/reviews/lotus/eletre/,N/A,350 kW,3.3
+Mercedes EQS SUV Review,7,"£129,470",401mi,https://www.electrifying.com/reviews/mercedes/eqs_suv/,118 kWh,N/A,N/A
+SKODA Enyaq iV Coupe vRS Review,9,"£51,885",312mi,https://www.electrifying.com/reviews/skoda/enyaq-coupe-vrs/,77kWh,135kW,3.6 (claimed)
+Citroen e-Berlingo Van Review,9,"£30,055",213mi,https://www.electrifying.com/reviews/citroen/e-berlingo-van/,50kWh,100kW,4.3 (claimed)
+Toyota bZ4X Review,7,"£42,860",318mi,https://www.electrifying.com/reviews/toyota/bz4x/,64kWh,150kW,4.0-4.4
+Lucid Air Review,8,"£100,000",403mi,https://www.electrifying.com/reviews/lucid/air/,90 kWh,350kW,4.1 - 5.0
+Mercedes EQE Review,7,"£69,105",431mi,https://www.electrifying.com/reviews/mercedes/eqe/,96 kWh,N/A,N/A
+KGM Korando e-Motion Review,6,"£32,695",210mi,https://www.electrifying.com/reviews/kgm/korando-e-motion/,61.5 kWh,N/A,N/A
+Pininfarina Battista Review,10,"£2,000,000",310mi,https://www.electrifying.com/reviews/pininfarina/battista/,120 kWh,N/A,N/A
+Mercedes EQB Review,8,"£52,800",321mi,https://www.electrifying.com/reviews/mercedes/eqb/,66.5 - 70.5 kWh,100 kW,3.9
+Renault Megane E-Tech Review,8,"£33,995",280mi,https://www.electrifying.com/reviews/renault/megane-e-tech/,60 kWh,N/A,N/A
+Cupra Born Review,9,"£35,504",366mi,https://www.electrifying.com/reviews/cupra/born/,58kWh-79kWh,125kW-170kW,3.4
+BMW iX Review,8,"£69,905",380mi,https://www.electrifying.com/reviews/bmw/ix/,71-105 kWh,200 kW,3.41
+Citroen ë-SpaceTourer Review,7,"£31,795",143mi,https://www.electrifying.com/reviews/citroen/spacetourer/,50 kWh,100 kW,3.18
+Rimac Nevera Review,10,"£2,000,000",310mi,https://www.electrifying.com/reviews/rimac/nevera/,120 kWh,500 kW,2.58
+BMW i4 Review,10,"£49,995",367mi,https://www.electrifying.com/reviews/bmw/i4/,66-80 kWh,180-200 kW,4.53
+Hyundai IONIQ 5 Review,9,"£39,990",354mi,https://www.electrifying.com/reviews/hyundai/ioniq-5/,Battery sizes: 58 - 77 kWh,225 kW,4.1
+Mercedes EQS Review,8,"£102,160",479mi,https://www.electrifying.com/reviews/mercedes/eqs/,96 - 118kWh,200 kW,4.44
+Porsche Taycan Cross Turismo Review,10,"£81,500",241mi,https://www.electrifying.com/reviews/porsche/taycan-cross-turismo/,93kWh,270 kW,2.59
+Mercedes EQA Review,7,"£49,750",346mi,https://www.electrifying.com/reviews/mercedes/eqa/,70.5kWh,100 kW,3.9
+Ford Mustang Mach-E Review,7,"£43,830",372mi,https://www.electrifying.com/reviews/ford/mustang-mach-e/,72-91kWh,150 kW,3.79
+Citroen e-C4 Review,8,"£30,569",260mi,https://www.electrifying.com/reviews/citroen/e-c4/,50-54kWh,100 kW,4.82 - 5.22
+Fiat All-Electric 500 Review,6,"£24,995",199mi,https://www.electrifying.com/reviews/fiat/500e/,Battery sizes: 24 - 42 kWh,85 kW,4.74
+Toyota Mirai Review,7,"£65,000",500mi,https://www.electrifying.com/reviews/toyota/toyota-mirai/,N/A,N/A,N/A
+BMW iX3 Review,7,"£58,850",282mi,https://www.electrifying.com/reviews/bmw/ix3/,80 kWh,150 kW,3.56
+Lexus UX300e Review,7,"£40,795",279mi,https://www.electrifying.com/reviews/lexus/ux300e/,72.8kWh,50 kW,3.83
+Vauxhall Vivaro Electric Review,8,"£35,526",209mi,https://www.electrifying.com/reviews/vauxhall/vivaro-e/,50-75 kWh,100 kW,3.01
+DS 3 E-Tense Review,6,"£38,950",250mi,https://www.electrifying.com/reviews/ds/3-e-tense/,54kWh,100 kW,4.6
+Mercedes EQV Review,8,"£70,655",211mi,https://www.electrifying.com/reviews/mercedes/eqv/,90kWh,110 kW,2.34
+Volkswagen ID.4 Review,7,"£42,640",349mi,https://www.electrifying.com/reviews/volkswagen/id-4/,52 - 77kWh,125 kW,4.03
+Polestar 2 Review,8,"£44,950",406mi,https://www.electrifying.com/reviews/polestar/2/,67-79 kWh,205 kW,4.48 - 4.81
+MG ZS EV Review,7,"£30,495",273mi,https://www.electrifying.com/reviews/mg/zs-ev/,72 kWh,76 kW,3.66
+Mazda MX-30 Review,5,"£28,995",124mi,https://www.electrifying.com/reviews/mazda/mx-30/,35.5 kWh,35 kW,4.2
+Tesla Model Y Review,9,"£44,990",373mi,https://www.electrifying.com/reviews/tesla/model-y/,75kWh,250 kW,4.20
+Volvo XC40 Recharge Review,7,"£49,950",259mi,https://www.electrifying.com/reviews/volvo/xc40-recharge/,78kWh,125 kW,3.32
+Hyundai Ioniq Electric Review,6,"£32,050",193mi,https://www.electrifying.com/reviews/hyundai/ioniq-electric/,N/A,50 kW,5.11
+Honda e Review,6,"£36,920",137mi,https://www.electrifying.com/reviews/honda/e/,35.5kWh,65 kW,3.52
+Renault Zoe Review,6,"£31,195",238mi,https://www.electrifying.com/reviews/renault/zoe/,52kWh,22 kW,4.60
+Renault Twizy Review,6,£,56mi,https://www.electrifying.com/reviews/renault/twizy/,6.1kW,2.3 kW,8.36
+Renault Kangoo ZE Review,7,"£24,163",143mi,https://www.electrifying.com/reviews/renault/kangoo-ze/,33kWh,7.4 kW,4.42
+Peugeot E-208 Review,7,"£28,600",248mi,https://www.electrifying.com/reviews/peugeot/e208/,51kWh,100 kW,5.19
+Tesla Model S Review,9,"£79,980",405mi,https://www.electrifying.com/reviews/tesla/model-s/,100kWh,250 kW,3.79
+Kia Soul EV Review,7,"£32,795",280mi,https://www.electrifying.com/reviews/kia/soul-ev/,39.2-64kWh,80 kW,4.38
+Jaguar I-Pace Review,9,"£66,350",292mi,https://www.electrifying.com/reviews/jaguar/i-pace/,N/A,104 kW,3.24
+Tesla Model X Review,9,"£86,200",348mi,https://www.electrifying.com/reviews/tesla/model-x/,100kWh,250 kW,3.48
+Vauxhall Corsa Electric Review,7,"£32,445",246mi,https://www.electrifying.com/reviews/vauxhall/corsa-e/,50 - 51 kWh,100 kW,4.64
+Volkswagen ID.3 Review,8,"£35,700",346mi,https://www.electrifying.com/reviews/volkswagen/id-3/,58 - 77kWh,170 kW,4.36
+Hyundai Kona Electric Review,9,"£34,995",321mi,https://www.electrifying.com/reviews/hyundai/kona-ev/,48 - 65kWh,101 kW,4.9
+Nissan Leaf Review,7,"£28,440",168mi,https://www.electrifying.com/reviews/nissan/leaf/,39kWh,50 kW,3.85
